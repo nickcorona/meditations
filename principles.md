@@ -138,12 +138,14 @@ eg: One off-plan dinner and "the cut is blown." It's one meal in a month.
 All-or-nothing thinking: it's rarely a total failure. Look for the shades of grey.
 
 ## 4.24
+moment: prioritize
 when: I'm overloaded or about to say yes to something
 eg: A meeting invite with no agenda. Ask whether it's needed before accepting.
 Ask yourself at every moment, “Is this necessary?”
 
 ## burkeman-1
 from: Oliver Burkeman, Four Thousand Weeks (paraphrased)
+moment: prioritize
 when: the to-do list feels impossible
 eg: Move week. Choose which tasks simply won't happen.
 You'll never get through everything. Decide what to neglect on purpose.
@@ -319,6 +321,7 @@ Do the thing that matters most first, before the day gets its hands on you.
 
 ## grove-1
 from: Andy Grove, High Output Management (paraphrased)
+moment: prioritize
 when: I'm choosing what to work on as a manager
 eg: Fixing a dashboard myself versus unblocking three analysts.
 A manager's output is the output of the team. Do the things with the most leverage.
@@ -343,6 +346,7 @@ When someone isn't performing, it's either can't or won't. Find out which before
 
 ## burkeman-3
 from: Oliver Burkeman, Four Thousand Weeks (paraphrased)
+moment: prioritize
 when: I'm juggling too many projects
 eg: Three side projects half done. Pick one to finish before touching the others.
 Limit work in progress: finish one big thing before starting another.
