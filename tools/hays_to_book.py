@@ -16,8 +16,7 @@ import sys
 
 ENTRY = re.compile(r'^(\d+)([a-z]?)\.\s*(.*)$')
 BOOK = re.compile(r'^Book\s+(\d+)\s*$')
-LIST = re.compile(r'^([ivx]+|[a-z])\.\s|^\u2022')  # "i. ...", "a. ...", bullets
-END_PUNCT = tuple('.?!:;"”’\'")]>')
+LIST = re.compile(r'^([ivx]+|[a-z])(\([a-z]\))?\.\s|^\u2022')  # "i. ...", "a. ...", bullets
 
 
 def find_books(lines):
@@ -59,11 +58,13 @@ def paragraphs(lines):
             cur = cur + ' ' + line
     if cur:
         out.append(cur)
-    # A page break in the scan splits a paragraph mid-sentence: rejoin when the first part has no
-    # closing punctuation and the next starts in lower case.
+    # A page break in the scan splits a paragraph mid-sentence: rejoin when the next part starts in
+    # lower case.
     merged = []
     for p in out:
-        if merged and not merged[-1].endswith(END_PUNCT) and p[:1].islower() and not LIST.match(p):
+        # (A paragraph never starts in lower case unless it's a list item, so even a closing period
+        # before it is the scan's, not the book's.)
+        if merged and p[:1].islower() and not LIST.match(p):
             sep = '' if merged[-1].endswith(('-', '—')) else ' '
             merged[-1] = merged[-1] + sep + p
         else:
@@ -71,10 +72,23 @@ def paragraphs(lines):
     return merged
 
 
+# The scan sometimes reads a 1 as "l" or "I" and splits a number ("ll.FRONTO" for 11, "1 la." for
+# 11a). Undo that at the start of a line, before looking for an entry number.
+OCR_NUM = re.compile(r'^([0-9lI][0-9lI ]{0,3}?)([a-km-z]?)\.(?=\s|[A-Z])')
+
+
+def fix_number(line):
+    m = OCR_NUM.match(line)
+    if not m:
+        return line
+    digits = m.group(1).replace(' ', '').replace('l', '1').replace('I', '1')
+    return digits + m.group(2) + '.' + line[m.end():] if digits.isdigit() else line
+
+
 def split_book(n, lines):
     entries, cur, expect = [], None, 1
     for line in lines:
-        m = ENTRY.match(line.strip())
+        m = ENTRY.match(fix_number(line.strip()))
         if m:
             num, letter = int(m.group(1)), m.group(2)
             if (num == expect and not letter) or (cur and letter and num == expect - 1):

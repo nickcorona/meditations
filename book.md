@@ -80,21 +80,25 @@ The Literary Critic Alexander.
 
 Not to be constantly correcting people, and in particular not to jump on them whenever they make an error of usage or a grammatical mistake or mispronounce something, but just answer their question or add another example, or debate the issue itself (not their phrasing), or make some other contribution to the discussion—and insert the right expression, unobtrusively.
 
-ll.FRONTO
+## 1.11
+Fronto.
 
 To recognize the malice, cunning, and hypocrisy that power produces, and the peculiar ruthlessness often shown by people from “good families.”
 
-12. ALEXANDER THE PLATONIST
+## 1.12
+Alexander The Platonist.
 
 Not to be constantly telling people (or writing them) that Em too busy, unless I really am Similarly, not to be always ducking my responsibilities to the people around me because of “pressing business.”
 
-13. CATULUS
+## 1.13
+Catulus.
 
 Not to shrug off a friend’s resentment—even unjustified resentment—but try to put things right.
 
 To show your teachers ungrudging respect (the Domitius and Athenodotus story), and your children unfeigned love.
 
-14. [MY BROTHER] SEVERUS
+## 1.14
+[My Brother] Severus.
 
 To love my family, truth and justice. It was through him that I encountered Thrasea, Helvidius, Cato, Dion and Brutus, and conceived of a society of equal laws, governed by equality of status and of speech, and of rulers who respect the liberty of their subjects above all else.
 
@@ -102,7 +106,8 @@ And from him as well, to be steady and consistent in valuing philosophy.
 
 And to help others and be eager to share, not to be a pessimist, and never to doubt your friends’ affection for you. And that when people incurred his disapproval, they always knew it. And that his friends never had to speculate about his attitude to anything: it was always clear.
 
-15. MAXIMUSMaximus
+## 1.15
+MAXIMUSMaximus
 
 Self-control and resistance to distractions.
 
@@ -124,7 +129,8 @@ That no one could ever have felt patronized by him—or in a position to patroni
 
 A sense of humor.
 
-16. MY ADOPTED FATHER
+## 1.16
+My Adopted Father.
 
 Compassion. Unwavering adherence to decisions, once he’d reached them. Indifference to superficial honors. Hard work. Persistence.
 
@@ -166,9 +172,7 @@ This, in particular: his willingness to yield the floor to experts—in oratory,
 
 That he respected tradition without needing to constantly congratulate himself for Safeguarding Our Traditional Values.
 
-Not prone to go off on tangents, or pulled in all directions.
-
-but sticking with the same old places and the same old things.
+Not prone to go off on tangents, or pulled in all directions. but sticking with the same old places and the same old things.
 
 The way he could have one of his migraines and then go right back to what he was doing—fresh and at the top of his game.
 
@@ -184,7 +188,8 @@ You could have said of him (as they say of Socrates) that he knew how to enjoy a
 
 (Maximus’s illness.)
 
-17. THE GODS
+## 1.17
+The Gods.
 
 That I had good grandparents, a good mother and father, a good sister, good teachers, good servants, relatives, friends —almost without exception. And that 1 never lost control of myself with any of them, although I had it in me to do that, and I might have, easily. But thanks to the gods, I was never put in that position, and so escaped the test.
 
@@ -580,9 +585,7 @@ How does the earth find room for all the bodies buried in it since the beginning
 
 One possible answer.
 
-But we shouldn’t think only of the mass of buried bodies. There are the ones consumed, on a daily basis, by us and by other animals. How many are swallowed up like that.
-
-entombed in the bodies of those nourished by them, and yet there is room for them all—converted into flesh and blood, transformed to air and fire.
+But we shouldn’t think only of the mass of buried bodies. There are the ones consumed, on a daily basis, by us and by other animals. How many are swallowed up like that. entombed in the bodies of those nourished by them, and yet there is room for them all—converted into flesh and blood, transformed to air and fire.
 
 How is the truth of this determined?
 
@@ -2924,7 +2927,8 @@ To see things as they are. Substance, cause and purpose.
 ## 12.11
 The freedom to do only what God wants, and accept whatever God sends us.
 
-1 la. What it’s made of.
+## 12.11a
+What it’s made of.
 
 ## 12.12
 The gods are not to blame. They do nothing wrong, on purpose or by accident. Nor men either; they don’t do it on purpose. No one is to blame.
