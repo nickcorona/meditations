@@ -8,12 +8,26 @@ when: I'm pushing a task to tomorrow
 eg: Booking the movers is on Home again. Send the first email now, not tomorrow.
 You could be good today. But instead you choose tomorrow.
 
+## fiore-3
+from: Neil Fiore, The Now Habit (paraphrased)
+moment: notnow
+when: I'm putting something off because it has to be perfect
+eg: Not sending a cover letter until it's flawless. Send the good-enough version.
+Procrastination protects you from being judged. Permission to do it imperfectly is what lets you start.
+
 ## clear-1
 from: James Clear, Atomic Habits (paraphrased)
 moment: stuck
 when: a habit feels too big to start
 eg: "Go for a run" becomes "put on running shoes."
 Make it so easy you can't say no: start with a version that takes two minutes.
+
+## fiore-1
+from: Neil Fiore, The Now Habit (paraphrased)
+moment: stuck
+when: I'm telling myself I have to finish something big
+eg: "I have to finish the model write-up tonight" becomes "When can I start on the first section?"
+Swap "I have to finish" for "When can I start?" Starting is the part you control.
 
 ## 5.1
 moment: wake
@@ -27,6 +41,13 @@ moment: notnow
 when: I'm waiting to feel ready before I act
 eg: Waiting to feel confident before messaging a match. Send it while nervous.
 Fighting a feeling makes it bigger. Make room for it and keep moving toward what matters.
+
+## addis-1
+from: Addis & Martell, Overcoming Depression One Step at a Time (paraphrased)
+moment: nudge
+when: I'm waiting to feel like it before doing anything
+eg: A low Sunday, waiting for energy to clean. Do ten minutes and see.
+Act first. Motivation follows action, not the other way round.
 
 ## epictetus-50
 from: Epictetus, Enchiridion 50
@@ -100,6 +121,12 @@ when: I'm certain about something that's actually uncertain
 eg: "She's definitely not interested." Would I bet $100 on that?
 Ask "Want to bet?" How sure am I, really, as a percentage?
 
+## levine-1
+from: Levine & Heller, Attached (paraphrased)
+when: I'm anxious about whether she's interested
+eg: Checking whether she's seen my message. That's the alarm going off, not evidence.
+That anxious pull is your attachment system switching on, not proof something's wrong. Name it before acting on it.
+
 ## harris-4
 from: Russ Harris, The Happiness Trap (paraphrased)
 when: I'm angry or anxious about something
@@ -149,6 +176,12 @@ moment: prioritize
 when: the to-do list feels impossible
 eg: Move week. Choose which tasks simply won't happen.
 You'll never get through everything. Decide what to neglect on purpose.
+
+## fiore-2
+from: Neil Fiore, The Now Habit (paraphrased)
+when: I'm half-working and half-feeling guilty
+eg: A Saturday spent scrolling and feeling bad about not working. Book the fun first, then a protected 30 minutes of work.
+Schedule guilt-free play first, then fit focused work around it.
 
 ## 8.36
 moment: stuck
@@ -203,6 +236,24 @@ when: I want someone to agree with me
 eg: Pitching a modelling change to a stakeholder. Sum up their concern until they say "That's right."
 Aim for "That's right", not "yes". Summarize their view so well they confirm it.
 
+## rosenberg-1
+from: Marshall Rosenberg, Nonviolent Communication (paraphrased)
+when: I'm about to criticize someone
+eg: "You never reply" becomes "I've sent three emails this week without a reply."
+Separate observation from evaluation: say what happened, not your judgment of it.
+
+## rosenberg-2
+from: Marshall Rosenberg, Nonviolent Communication (paraphrased)
+when: I'm upset with someone and want something to change
+eg: The landlord keeps delaying a repair. "I'm frustrated because I need a working shower. Can you book it by Friday?"
+Say the feeling and the need behind it, then make one specific request.
+
+## rosenberg-3
+from: Marshall Rosenberg, Nonviolent Communication (paraphrased)
+when: someone's attacking me
+eg: An angry email from a stakeholder. Find what they need before defending myself.
+Hear the need behind the attack before you defend yourself.
+
 ## 6.6
 when: I want to get back at someone
 eg: Someone's passive-aggressive in Slack. Reply plainly; don't match their tone.
@@ -213,11 +264,29 @@ when: I'm replaying what someone thinks of me
 eg: Worried a VP thought my update was weak. Would I trust their read on my work over my own?
 We all love ourselves more than other people, but care more about their opinion than our own.
 
+## kishimi-1
+from: Kishimi & Koga, The Courage to Be Disliked (paraphrased)
+when: I'm worrying how someone will react to my choice
+eg: Turning down an extra project at work. How my manager feels about it is their task; saying no clearly is mine.
+Separate tasks: your choice is your task, their reaction is theirs. Ask whose task this is.
+
 ## manson-3
 from: Mark Manson, Models (paraphrased)
 when: I keep checking whether she's replied
 eg: Refreshing the app. Go do something I care about.
 Neediness is caring more about their approval than your own life. Invest in your life first.
+
+## levine-2
+from: Levine & Heller, Attached (paraphrased)
+when: someone's hot and cold with me
+eg: Keen on the date, then vague for days.
+Mixed signals are a signal. Look for someone who's consistently responsive.
+
+## levine-3
+from: Levine & Heller, Attached (paraphrased)
+when: I'm hiding a need so I seem low-maintenance
+eg: Not saying I'd like to hear from her more than once a week.
+State your needs directly and early. How they respond tells you whether you're compatible.
 
 ## clear-2
 from: James Clear, Atomic Habits (paraphrased)
@@ -236,6 +305,12 @@ when: I'm tired, cold or not in the mood to do what I planned
 eg: Wiped after work with the gym on the plan. Go anyway; the mood isn't part of the deal.
 Just that you do the right thing. The rest doesn’t matter.
 
+## addis-3
+from: Addis & Martell, Overcoming Depression One Step at a Time (paraphrased)
+when: my mood is turning into a plan to do nothing
+eg: Skipping the gym because I feel down. The plan says lift, so lift.
+Act according to the plan, not the mood.
+
 ## 10.16
 when: I'm reading or planning about getting better instead of doing it
 eg: A third article on discipline tonight. Close it and do the two-minute task.
@@ -252,6 +327,12 @@ when: I'm telling myself I can't do it because it's hard
 eg: The spatial model won't converge. Hard isn't impossible; people do this.
 Not to assume it’s impossible because you find it hard. But to recognize that if it’s humanly possible, you can do it too.
 
+## kishimi-3
+from: Kishimi & Koga, The Courage to Be Disliked (paraphrased)
+when: I'm measuring my life against someone else's
+eg: A friend's bigger title on LinkedIn. Compare against who I'm trying to become.
+Life isn't a competition. Compare yourself with your ideal self, not with other people.
+
 ## manson-1
 from: Mark Manson, Models (paraphrased)
 when: I'm hiding my interest to stay safe
@@ -263,6 +344,12 @@ from: Mark Manson, Models (paraphrased)
 when: I'm watering myself down to be liked
 eg: A bland bio or opener written to offend no one.
 Show who you really are. Turning some people off is how the right ones are drawn in.
+
+## kishimi-4
+from: Kishimi & Koga, The Courage to Be Disliked (paraphrased)
+when: I'm holding back so no one dislikes me
+eg: Not raising a concern about a model in a meeting.
+Freedom means being willing to be disliked.
 
 ## manson-4
 from: Mark Manson, Models (paraphrased)
@@ -343,6 +430,24 @@ from: Andy Grove, High Output Management (paraphrased)
 when: someone on the team isn't performing
 eg: An analyst's work keeps slipping. Is it can't (skill) or won't (motivation)?
 When someone isn't performing, it's either can't or won't. Find out which before you act.
+
+## newport-5
+from: Cal Newport, So Good They Can't Ignore You (paraphrased)
+when: I'm hunting for the job that matches my passion
+eg: Searching for a perfect-fit role instead of the one that builds the rarest skills.
+Passion follows mastery. Build rare and valuable skills, then trade them for what you want.
+
+## newport-6
+from: Cal Newport, So Good They Can't Ignore You (paraphrased)
+when: my practice has gotten comfortable
+eg: Re-running analyses I already know how to do. Pick the method I'm weak at.
+If it feels easy, you're not getting better. Deliberate practice stretches past comfortable.
+
+## newport-7
+from: Cal Newport, So Good They Can't Ignore You (paraphrased)
+when: I'm weighing a role on title or pay alone
+eg: An offer with more money but less say over my work.
+Spend career capital on control over your work, not just title or pay.
 
 ## burkeman-3
 from: Oliver Burkeman, Four Thousand Weeks (paraphrased)
@@ -446,10 +551,22 @@ when: I'm replaying a slip
 eg: Ate off-plan last night. Back on today, no punishment.
 To get back up when you fail, to celebrate behaving like a human.
 
+## kishimi-2
+from: Kishimi & Koga, The Courage to Be Disliked (paraphrased)
+when: I'm blaming my past for how I am
+eg: "I procrastinate because of how I was raised."
+Your past doesn't decide what you do now. Ask what you'll do with what you have.
+
 ## 7.59
 when: I feel like there's nothing good in me today
 eg: A flat, irritable day. One decent act gets it going.
 Dig deep; the water—goodness—is down there. And as long as you keep digging, it will keep bubbling up.
+
+## addis-2
+from: Addis & Martell, Overcoming Depression One Step at a Time (paraphrased)
+when: I'm pulling back from things on a low day
+eg: About to cancel plans and stay in. One small thing that used to feel good or useful, instead.
+Avoidance feels like rest on a low day but deepens the low. Do one small thing that gives pleasure or a sense of mastery.
 
 ## 6.30
 moment: unlock
