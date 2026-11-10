@@ -3,6 +3,7 @@
 Two files:
 
 - `book.md`: the whole of Marcus Aurelius's Meditations, one entry per `## book.section` heading. Cue Home reads through it in order, one passage at a time, as many as I want. Don't edit the text. It starts as George Long's 1862 translation (public domain). When I upload my own copy of the Gregory Hays translation as `hays.txt` (the archive.org full-text file), the `Build book.md from hays.txt` workflow runs `tools/hays_to_book.py` and replaces `book.md` with it.
+- `skip.md`: passages of `book.md` that Home leaves out, so the reader shows only principles: all of Book 1 (his thanks to people) and bare quotations, name lists and fragments. Add or remove lines to change what shows.
 - `meditations.md`: my own short list of ideas, each tied to the situation it's for. Not shown on Home right now; kept for reference. The format below is strict.
 
 ## Format (do not deviate)
