@@ -1,18 +1,24 @@
 # Meditations
 
-Two files:
+## The rule for everything here
+
+A principle only helps if I notice I'm in its situation, so every principle, idea or rule I keep, from any source, is stored as three things: when it applies (the internal moment, in my words), the principle itself, and one concrete example from my life. Never add a bare rule. When I bring something new, write it this way without being asked.
+
+## Files
+
 
 - `book.md`: the whole of Marcus Aurelius's Meditations, one entry per `## book.section` heading. It's the source the principles are quoted from, and what opens when I tap one. Don't edit the text. It starts as George Long's 1862 translation (public domain). When I upload my own copy of the Gregory Hays translation as `hays.txt` (the archive.org full-text file), the `Build book.md from hays.txt` workflow runs `tools/hays_to_book.py` and replaces `book.md` with it.
 - `principles.md`: what Cue Home actually shows: principles worth keeping, most useful first, from Marcus and other books. A Marcus entry is `## book.section`, then `when: <the moment it applies>`, then `eg: <a concrete case from my life>`, then the line quoted word for word from `book.md`. An entry from another book is `## <author>-<n>`, then `from: <author, title and section>`, then when and eg, then the line: quoted exactly if the book is public domain (Epictetus), otherwise paraphrased with `(paraphrased)` at the end of `from:`. Leave out anything that rests on providence, denies real harm, or treats feeling as the error. Home shows the when and the line; a tap opens the example and the full passage. A rule only helps if I notice I'm in its situation, so every principle needs a when and an eg. To add one, quote the line exactly and put it where it ranks.
 - `skip.md`: passages of `book.md` to leave out if Home ever goes back to reading the whole book (only used when there is no `principles.md`): all of Book 1 and bare quotations, name lists and fragments.
 - `meditations.md`: my own short list of ideas, each tied to the situation it's for. Not shown on Home right now; kept for reference. The format below is strict.
 
-## Format (do not deviate)
+## Format of meditations.md (do not deviate)
 
 ```
 ## <short id, kebab-case>
 for: <the internal state that triggers it>
 idea: <the idea in my words, one or two lines>
+eg: <one concrete case from my life>
 why: <one line on why I believe it>   (optional)
 stage: read | recall
 ```
