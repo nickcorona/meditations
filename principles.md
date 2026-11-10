@@ -254,6 +254,48 @@ when: someone's attacking me
 eg: An angry email from a stakeholder. Find what they need before defending myself.
 Hear the need behind the attack before you defend yourself.
 
+## gottman-1
+from: John Gottman, The Seven Principles for Making Marriage Work (paraphrased)
+when: someone I'm close to makes a small bid for attention
+eg: She sends a meme or mentions her day. Respond properly instead of half-reading it.
+Turn toward bids. Small moments of responding build a relationship more than big gestures.
+
+## gottman-2
+from: John Gottman, The Seven Principles for Making Marriage Work (paraphrased)
+when: I'm about to raise something that bothers me
+eg: Annoyed she cancelled plans again. Start with "I felt let down when..." not "You always..."
+Start soft: raise the issue without blame. Complain about the situation; don't criticize the person.
+
+## gottman-3
+from: John Gottman, The Seven Principles for Making Marriage Work (paraphrased)
+when: I'm getting defensive or contemptuous in a disagreement
+eg: An eye-roll or a sarcastic reply mid-argument. Take responsibility for my part instead.
+Criticism, contempt, defensiveness and stonewalling predict breakups. Catch them and do the opposite.
+
+## gottman-4
+from: John Gottman, The Seven Principles for Making Marriage Work (paraphrased)
+when: I'm flooded in the middle of an argument
+eg: Heart pounding, about to say something I'll regret. Say I need twenty minutes and come back.
+When you're flooded, take a real break of at least twenty minutes, then come back to it.
+
+## perel-1
+from: Esther Perel, Mating in Captivity (paraphrased)
+when: the attraction's fading because things have gotten comfortable
+eg: Months in, every night on the couch together. Keep my own nights, friends and pursuits.
+Desire needs some distance. Keep separate lives, interests and friends.
+
+## perel-2
+from: Esther Perel, Mating in Captivity (paraphrased)
+when: I'm keeping someone close by being always available
+eg: Cancelling my own plans to be around her.
+Desire comes back when you see each other absorbed and competent in your own lives, not when you merge.
+
+## perel-3
+from: Esther Perel, Mating in Captivity (paraphrased)
+when: it's all routine and logistics between us
+eg: Dates have turned into errands. Plan something new for both of us.
+Routine is good for security and bad for desire. Bring back novelty and play.
+
 ## 6.6
 when: I want to get back at someone
 eg: Someone's passive-aggressive in Slack. Reply plainly; don't match their tone.
@@ -287,6 +329,30 @@ from: Levine & Heller, Attached (paraphrased)
 when: I'm hiding a need so I seem low-maintenance
 eg: Not saying I'd like to hear from her more than once a week.
 State your needs directly and early. How they respond tells you whether you're compatible.
+
+## ury-1
+from: Logan Ury, How to Not Die Alone (paraphrased)
+when: I'm about to drop someone because there was no spark
+eg: A first date that was fine but felt flat. Go on a second.
+The spark is a poor predictor. If a first date was fine, go on a second.
+
+## ury-2
+from: Logan Ury, How to Not Die Alone (paraphrased)
+when: I'm judging a match on looks, height or banter
+eg: Swiping on photos and witty bios. Look for signs of kindness and steadiness instead.
+Weigh long-term traits (kindness, loyalty, how they handle stress) over short-term ones like looks and banter.
+
+## ury-3
+from: Logan Ury, How to Not Die Alone (paraphrased)
+when: a date's turning into a job interview
+eg: Trading job titles and neighbourhoods. Ask for a story instead.
+Skip the interview questions. Ask things that get to stories and feelings, and be playful.
+
+## ury-4
+from: Logan Ury, How to Not Die Alone (paraphrased)
+when: I'm drifting, unsure whether to keep seeing someone
+eg: Four dates in and still on the fence. Pick a date by which I'll decide.
+Decide to decide: set a deadline to choose instead of drifting.
 
 ## clear-2
 from: James Clear, Atomic Habits (paraphrased)
