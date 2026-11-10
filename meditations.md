@@ -111,7 +111,7 @@ stage: read
 ## fixating-on-someone
 for: fixating on one specific person
 idea: The goal is to stop wanting, not to get.
-why: Ask to stop wanting, not to get. (9.40)
+why: The wanting is the part I can change. (9.40)
 stage: read
 
 ## hungry-on-the-cut
