@@ -1,114 +1,188 @@
 # Principles
 
-Marcus's core principles, one line each, quoted from book.md with the passage they come from. Cue Home cycles through these in order; a tap opens the full passage. Most useful first.
+Marcus's core principles, quoted word for word from book.md under the passage they come from. Each has `when:` (the moment it applies) and `eg:` (a concrete case), because a rule only helps if I notice I'm in its situation. Cue Home shows the when and the line; a tap opens the example and the full passage. Most useful first.
 
 ## 2.1
+when: someone's being rude, careless or dishonest with me
+eg: A coworker takes credit for my analysis in a meeting. They're grabbing what looks good to them, not attacking me.
 They are like this because they can’t tell good from evil.
 
 ## 5.1
+when: I'm lying in bed not wanting to start the day
+eg: The alarm goes and I want ten more minutes. Feet on the floor: the day's work is what I'm for.
 I have to go to work—as a human being.
 
 ## 8.22a
+when: I'm pushing a task to tomorrow
+eg: Booking the movers is on Home again. Send the first email now, not tomorrow.
 You could be good today. But instead you choose tomorrow.
 
 ## 4.24
+when: I'm overloaded or about to say yes to something
+eg: A meeting invite with no agenda. Ask whether it's needed before accepting.
 Ask yourself at every moment, “Is this necessary?”
 
 ## 6.2
+when: I'm tired, cold or not in the mood to do what I planned
+eg: Wiped after work with the gym on the plan. Go anyway; the mood isn't part of the deal.
 Just that you do the right thing. The rest doesn’t matter.
 
 ## 8.47
+when: I'm upset about something that happened
+eg: A match unmatches me. The sting is my story about what it means, not the event.
 External things are not the problem. It’s your assessment of them.
 
 ## 5.20
+when: a plan falls through
+eg: The elevator's taken on move day. The work now is another slot or another way, not the old plan.
 The impediment to action advances action. What stands in the way becomes the way.
 
 ## 8.36
+when: everything feels huge at once
+eg: Move, job search and the cut all pile up on Sunday night. Pick the one thing for tomorrow morning.
 Don’t let your imagination be crushed by life as a whole.
 
 ## 8.49
+when: I'm reading meaning into a text or a silence
+eg: She hasn't replied in a day. That's all I know, not that she's lost interest.
 Stick with first impressions. Don’t extrapolate.
 
 ## 8.50
+when: something's bad and I'm complaining instead of acting
+eg: The bedroom's noisy at night. Buy earplugs or move the bed; don't stew.
 The cucumber is bitter? Then throw it out. There are brambles in the path? Then go around them.
 
 ## 6.6
+when: I want to get back at someone
+eg: Someone's passive-aggressive in Slack. Reply plainly; don't match their tone.
 The best revenge is not to be like that.
 
 ## 12.4
+when: I'm replaying what someone thinks of me
+eg: Worried a VP thought my update was weak. Would I trust their read on my work over my own?
 We all love ourselves more than other people, but care more about their opinion than our own.
 
 ## 5.16
+when: I notice I've been chewing on the same thought
+eg: An hour rehearsing a grievance. It's colouring the whole day; switch tracks.
 Your soul takes on the color of your thoughts.
 
 ## 6.19
+when: I'm telling myself I can't do it because it's hard
+eg: The spatial model won't converge. Hard isn't impossible; people do this.
 Not to assume it’s impossible because you find it hard. But to recognize that if it’s humanly possible, you can do it too.
 
 ## 6.21
+when: I'm getting defensive about being wrong
+eg: Someone finds a bug in my code. Thank them; the fix makes my work better.
 It’s the truth I’m after, and the truth never harmed anyone.
 
 ## 7.7
+when: I'm stuck and don't want to ask
+eg: An hour stuck on a deploy. Ask someone now.
 Don’t be ashamed to need help.
 
 ## 10.16
+when: I'm reading or planning about getting better instead of doing it
+eg: A third article on discipline tonight. Close it and do the two-minute task.
 To stop talking about what the good man is like, and just be one.
 
 ## 2.5
+when: I'm half-doing something while my mind's elsewhere
+eg: Checking Slack during a 1:1. Phone face down, full attention.
 Do everything as if it were the last thing you were doing in your life.
 
 ## 7.69
+when: I'm rushing, slacking or putting on a front
+eg: Frantic before a deadline or coasting after it. Steady pace, no show.
 Perfection of character: to live your last day, every day, without frenzy, or sloth, or pretense.
 
 ## 4.17
+when: I'm putting off doing something decent until later
+eg: Meaning to text a friend who's having a hard time. Send it today.
 While you’re alive and able—be good.
 
 ## 2.11
+when: I'm acting like there's unlimited time
+eg: Holding a grudge for weeks. Would I keep it if this were my last month?
 You could leave life right now. Let that determine what you do and say and think.
 
 ## 12.17
+when: I'm tempted to shade the truth or cut a corner
+eg: Tempted to round up a model's lift in a deck. Show the real number.
 If it’s not right, don’t do it. If it’s not true, don’t say it.
 
 ## 4.49a
+when: something went wrong and I'm calling it bad luck
+eg: Losing a deposit. Handling it well is the part I get to win.
 The thing itself was no misfortune at all; to endure it and prevail is great good fortune.
 
 ## 6.51
+when: my mood depends on how others react
+eg: Checking who reacted to my post. Judge the day by what I did.
 Sanity means tying it to your own actions.
 
 ## 7.71
+when: someone else's flaws are grating on me
+eg: Irritated a coworker is always late. Work on my own habit of overpromising instead.
 It’s silly to try to escape other people’s faults. They are inescapable. Just try to escape your own.
 
 ## 8.59
+when: someone keeps frustrating me
+eg: A stakeholder misreads the model again. Explain it once more, or let it go.
 People exist for one another. You can instruct or endure them.
 
 ## 6.53
+when: I'm waiting for my turn to talk
+eg: In a debate about methodology. Say their point back before answering.
 Practice really hearing what people say. Do your best to get inside their minds.
 
 ## 7.15
+when: someone's behaviour makes me want to drop my standards
+eg: A rude email. Still reply well.
 No matter what anyone says or does, my task is to be good.
 
 ## 10.3
+when: I'm thinking I can't take any more
+eg: A hard week of the cut and the move. It's endurable if I treat it as temporary and chosen.
 You can endure anything your mind can make endurable.
 
 ## 11.18
+when: I'm tempted to be snarky or cold
+eg: Someone's hostile in a review. A kind, specific answer disarms more than sarcasm.
 Kindness is invincible, provided it’s sincere—not ironic or an act.
 
 ## 5.9
+when: I'm replaying a slip
+eg: Ate off-plan last night. Back on today, no punishment.
 To get back up when you fail, to celebrate behaving like a human.
 
 ## 7.59
+when: I feel like there's nothing good in me today
+eg: A flat, irritable day. One decent act gets it going.
 Dig deep; the water—goodness—is down there. And as long as you keep digging, it will keep bubbling up.
 
 ## 6.30
+when: I notice I'm drifting from who I mean to be
+eg: Third night of scrolling late. That's not who I'm building.
 Fight to be the person philosophy tried to make you.
 
 ## 4.32
+when: I'm spending too long on something small
+eg: Forty minutes on a slide's layout. Ship it.
 You’re better off not giving the small things more time than they deserve.
 
 ## 3.10
+when: I'm living in the past or the future
+eg: Rehearsing last week's conversation. Only this moment is live.
 Each of us lives only now, this brief instant.
 
 ## 11.13
+when: someone's contempt is getting to me
+eg: A match is rude after I say no. Not mine to fix; mine is not answering in kind.
 Someone despises me. That’s their problem. Mine: not to do or say anything despicable.
 
 ## 7.73
+when: I'm annoyed nobody noticed or said thanks
+eg: Helped a teammate debug for an hour, no thanks. The help was the point.
 You’ve given aid and they’ve received it. And yet, like an idiot, you keep holding out for more: to be credited with a Good Deed, to be repaid in kind. Why?
