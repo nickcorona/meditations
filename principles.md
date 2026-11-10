@@ -36,6 +36,18 @@ when: I'm waiting until things settle down
 eg: "After the move I'll start..." Start now.
 Life never arrives fully under control. Act now, in imperfect conditions.
 
+## seneca-1
+from: Seneca, On the Shortness of Life
+when: I'm telling myself there's no time
+eg: "No time to work on applications" after two hours on YouTube.
+We do not have a very short time assigned to us, but we lose a great deal of it.
+
+## seneca-2
+from: Seneca, On the Shortness of Life
+when: I'm getting through the week until something later
+eg: Counting down to Friday, or to after the move.
+Postponement is the greatest waste of life: it wrings day after day from us, and takes away the present by promising something hereafter.
+
 ## 8.47
 when: I'm upset about something that happened
 eg: A match unmatches me. The sting is my story about what it means, not the event.
@@ -46,6 +58,12 @@ from: Russ Harris, The Happiness Trap (paraphrased)
 when: a strong feeling is pushing me to act
 eg: Anxious before a hard conversation at work. "I'm noticing anxiety", then have the conversation.
 Feelings are information, not orders. Notice the feeling, name it, then choose what to do.
+
+## burns-5
+from: David Burns, Feeling Good (paraphrased)
+when: I feel something, so it seems true
+eg: "I feel like a failure, so I am one."
+Feelings aren't facts. Feeling hopeless doesn't make things hopeless.
 
 ## epictetus-1
 from: Epictetus, Enchiridion 1
@@ -58,6 +76,24 @@ when: I'm reading meaning into a text or a silence
 eg: She hasn't replied in a day. That's all I know, not that she's lost interest.
 Stick with first impressions. Don’t extrapolate.
 
+## burns-1
+from: David Burns, Feeling Good (paraphrased)
+when: I'm assuming what someone thinks of me
+eg: "My manager thinks I'm slow", with no evidence. Ask, or look at what they've actually said.
+Mind reading is a distortion: you're assuming what others think without evidence. Check before you believe it.
+
+## burns-3
+from: David Burns, Feeling Good (paraphrased)
+when: I'm predicting something will go badly
+eg: "This interview is going to go terribly." That's a forecast, not a fact.
+Fortune-telling treats a prediction as a fact. Ask what the evidence actually is.
+
+## duke-2
+from: Annie Duke, Thinking in Bets (paraphrased)
+when: I'm certain about something that's actually uncertain
+eg: "She's definitely not interested." Would I bet $100 on that?
+Ask "Want to bet?" How sure am I, really, as a percentage?
+
 ## harris-4
 from: Russ Harris, The Happiness Trap (paraphrased)
 when: I'm angry or anxious about something
@@ -69,11 +105,29 @@ when: a plan falls through
 eg: The elevator's taken on move day. The work now is another slot or another way, not the old plan.
 The impediment to action advances action. What stands in the way becomes the way.
 
+## duke-1
+from: Annie Duke, Thinking in Bets (paraphrased)
+when: I'm judging a decision by how it turned out
+eg: The apartment I picked had a leak. Was it a good decision given what I knew then?
+Don't judge a decision by its outcome. Judge it by the process and the information you had.
+
+## duke-4
+from: Annie Duke, Thinking in Bets (paraphrased)
+when: I'm drawing a lesson from one result
+eg: A good interview and no offer. Was it skill, or luck?
+Outcomes are skill plus luck. Separate the two before you learn anything from one.
+
 ## clear-4
 from: James Clear, Atomic Habits (paraphrased)
 when: I've missed a day
 eg: Skipped the gym yesterday. Today is non-negotiable.
 Never miss twice. One slip is an accident; two is the start of a new habit.
+
+## burns-2
+from: David Burns, Feeling Good (paraphrased)
+when: one slip makes the whole thing feel ruined
+eg: One off-plan dinner and "the cut is blown." It's one meal in a month.
+All-or-nothing thinking: it's rarely a total failure. Look for the shades of grey.
 
 ## 4.24
 when: I'm overloaded or about to say yes to something
@@ -97,16 +151,46 @@ when: a harsh thought about myself keeps repeating
 eg: "I'm going to mess up this presentation" becomes "I'm having the thought that I'll mess it up."
 Notice the thought as a thought. Saying "I'm having the thought that..." loosens its grip.
 
+## burns-4
+from: David Burns, Feeling Good (paraphrased)
+when: I'm talking to myself harshly
+eg: "I'm such an idiot" after a mistake in a meeting. I'd never say that to a friend.
+Talk to yourself the way you'd talk to a friend in the same situation.
+
 ## 2.1
 when: someone's being rude, careless or dishonest with me
 eg: A coworker takes credit for my analysis in a meeting. They're grabbing what looks good to them, not attacking me.
 They are like this because they can’t tell good from evil.
+
+## seneca-3
+from: Seneca, On Anger
+when: I feel wronged by someone
+eg: A friend bails on plans at the last minute. If they're good, there's probably a reason; if not, it's no surprise.
+Is it a good man who has wronged you? do not believe it: is it a bad one? do not be surprised.
 
 ## epictetus-20
 from: Epictetus, Enchiridion 20
 when: someone provokes me and I want to fire back
 eg: A snippy Slack message. Wait an hour before replying.
 For if you once gain time and respite, you will more easily command yourself.
+
+## voss-1
+from: Chris Voss, Never Split the Difference (paraphrased)
+when: a conversation is getting tense
+eg: The landlord pushes back on a repair. "It sounds like you're worried about the cost."
+Label the emotion out loud: "It seems like..." Naming what they feel takes the heat out of it.
+
+## voss-2
+from: Chris Voss, Never Split the Difference (paraphrased)
+when: someone makes an offer that doesn't work for me
+eg: The movers quote too high. "How am I supposed to make that work?"
+Ask "how" and "what" questions and let them solve your problem, instead of splitting the difference.
+
+## voss-3
+from: Chris Voss, Never Split the Difference (paraphrased)
+when: I want someone to agree with me
+eg: Pitching a modelling change to a stakeholder. Sum up their concern until they say "That's right."
+Aim for "That's right", not "yes". Summarize their view so well they confirm it.
 
 ## 6.6
 when: I want to get back at someone
@@ -201,11 +285,47 @@ when: I keep falling into the same distraction
 eg: Phone keeps pulling me off work. Put it in another room.
 Make the bad habit hard: put friction between you and the cue.
 
+## newport-1
+from: Cal Newport, Digital Minimalism (paraphrased)
+when: I reach for my phone out of boredom
+eg: Waiting in line at the store. Leave the phone in my pocket.
+Practice solitude: let your mind be alone with its own thoughts instead of filling every gap.
+
+## newport-3
+from: Cal Newport, Digital Minimalism (paraphrased)
+when: the evening's empty and I'm scrolling
+eg: 9pm on the couch. Cook something, lift, read, or go out.
+Replace low-quality leisure with demanding, real-world activity.
+
 ## burkeman-2
 from: Oliver Burkeman, Four Thousand Weeks (paraphrased)
 when: I'm saving the important work for later in the day
 eg: Job applications before email and Slack.
 Do the thing that matters most first, before the day gets its hands on you.
+
+## grove-1
+from: Andy Grove, High Output Management (paraphrased)
+when: I'm choosing what to work on as a manager
+eg: Fixing a dashboard myself versus unblocking three analysts.
+A manager's output is the output of the team. Do the things with the most leverage.
+
+## grove-2
+from: Andy Grove, High Output Management (paraphrased)
+when: I'm going into a 1:1
+eg: Weekly 1:1 with an analyst. Let them set the agenda; ask and listen.
+The 1:1 is the report's meeting. They bring the agenda; you ask questions and listen.
+
+## grove-3
+from: Andy Grove, High Output Management (paraphrased)
+when: I'm handing off a task
+eg: Handing a model review to a junior. Check in more often than with a senior.
+Delegating without following up is abdication. Match how closely you check to their experience with the task.
+
+## grove-4
+from: Andy Grove, High Output Management (paraphrased)
+when: someone on the team isn't performing
+eg: An analyst's work keeps slipping. Is it can't (skill) or won't (motivation)?
+When someone isn't performing, it's either can't or won't. Find out which before you act.
 
 ## burkeman-3
 from: Oliver Burkeman, Four Thousand Weeks (paraphrased)
@@ -213,11 +333,29 @@ when: I'm juggling too many projects
 eg: Three side projects half done. Pick one to finish before touching the others.
 Limit work in progress: finish one big thing before starting another.
 
+## newport-2
+from: Cal Newport, Digital Minimalism (paraphrased)
+when: I'm tempted by a new app or service
+eg: A new productivity app. Does it serve something I deeply value, better than what I have?
+Use a technology only if it's the best way to support something you deeply value.
+
+## newport-4
+from: Cal Newport, Digital Minimalism (paraphrased)
+when: I'm about to like or react instead of reaching out
+eg: Reacting to a friend's story. Text them properly instead.
+A like isn't connection. Have the actual conversation.
+
 ## burkeman-5
 from: Oliver Burkeman, Four Thousand Weeks (paraphrased)
 when: I can't choose because something better might come along
 eg: An apartment or a date that's good, not perfect.
 Commit to the option in front of you instead of keeping every door open.
+
+## duke-3
+from: Annie Duke, Thinking in Bets (paraphrased)
+when: I'm stuck between options
+eg: Two job offers. Picture myself a year from now looking back.
+Imagine your future self looking back: which choice will you wish you'd made?
 
 ## 2.5
 when: I'm half-doing something while my mind's elsewhere
