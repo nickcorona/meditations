@@ -117,3 +117,129 @@ for: reading and planning instead of doing
 idea: Stop researching what good looks like. Do the first piece now.
 why: Marcus 10.16: stop talking about what the good man is like, and just be one.
 stage: read
+
+## wanting-revenge
+for: wanting to get back at someone
+idea: The best revenge is not to be like that.
+why: Marcus 6.6.
+stage: read
+
+## saying-yes-to-everything
+for: overloaded and saying yes to everything
+idea: Ask "is this necessary?" and drop what isn't. Do less, better.
+why: Marcus 4.24.
+stage: read
+
+## reading-into-it
+for: reading meaning into a text or a silence
+idea: Stick to what actually happened. They haven't replied. That's all I know.
+why: Marcus 8.49: stick with first impressions, don't extrapolate.
+stage: read
+
+## fixating-on-someone
+for: fixating on one specific person
+idea: The goal isn't a way to get them. It's a way to stop needing to.
+why: Marcus 9.40: pray not for a way to sleep with her, but for a way to stop wanting to.
+stage: read
+
+## mind-elsewhere
+for: half-doing the task while my mind is somewhere else
+idea: Do this one as if it were the last thing I'll do. Close the other tabs.
+why: Marcus 2.5, and 7.69: live the last day, every day, without frenzy, sloth or pretense.
+stage: read
+
+## after-a-win
+for: feeling full of myself after a win
+idea: Stay plain. The title doesn't change what the work is.
+why: Marcus 6.30: don't get "imperialized." Take Antoninus as the model.
+stage: read
+
+## half-listening
+for: waiting for my turn to talk
+idea: Actually hear what they're saying. Get inside their head before answering.
+why: Marcus 6.53.
+stage: read
+
+## burned-once
+for: still guarded with someone who burned me once
+idea: Like a sparring partner who caught me with an elbow. Keep a friendly distance, no grudge.
+why: Marcus 6.20.
+stage: read
+
+## wanting-to-escape
+for: wanting to get away from everything
+idea: Ten quiet minutes inside my own head does what the trip would. Then back to it.
+why: Marcus 4.3: you can get away from it anytime by going within.
+stage: read
+
+## hungry-on-the-cut
+for: hungry and cranky on the cut
+idea: It's just hunger. It has edges and it ends at the next meal.
+why: Marcus 7.64: pain is neither unbearable nor unending if you keep to its limits; it often shows up as drowsiness or appetite.
+stage: read
+
+## blaming-the-situation
+for: complaining about my situation
+idea: If it's something I should be doing, do it. If I can't, it's not my problem to carry.
+why: Marcus 8.47: external things aren't the problem, your assessment of them is.
+stage: read
+
+## needing-a-lift
+for: feeling low about people in general
+idea: Name one good trait in each person around me. That's real too.
+why: Marcus 6.48: nothing encourages like seeing virtues in the people around you.
+stage: read
+
+## too-tired-to-train
+for: too tired to train
+idea: Tired or rested, do the right thing. Start the warm-up set and decide after.
+why: Marcus 6.2: cold or warm, tired or rested, just do the right thing.
+stage: read
+
+## feeling-unlucky
+for: feeling unlucky that this happened to me
+idea: The lucky part is that I came through it intact. Not everyone would.
+why: Marcus 4.49a.
+stage: read
+
+## worried-what-theyll-think
+for: second-guessing a right call because of what people will say
+idea: If it's right to do, it's right for me to do. Keep walking.
+why: Marcus 5.3.
+stage: read
+
+## did-everything-right
+for: did everything right and it still didn't land
+idea: The aim was to try well, and I did. The result wasn't mine to own.
+why: Marcus 6.50: you weren't aiming at the impossible; you set out to try, and succeeded.
+stage: read
+
+## too-busy
+for: about to tell someone I'm too busy
+idea: Only say it if it's true. Otherwise make the time.
+why: Marcus 1.12, from Alexander the Platonist.
+stage: read
+
+## friend-is-upset
+for: a friend is upset with me and I think they're wrong
+idea: Fix it anyway. Being right doesn't make it not matter.
+why: Marcus 1.13: don't shrug off a friend's resentment, even unjustified.
+stage: read
+
+## urge-to-correct
+for: itching to correct someone's small mistake
+idea: Answer what they actually asked. Slip the right version in quietly.
+why: Marcus 1.10, from Alexander the critic.
+stage: read
+
+## being-the-expert
+for: wanting to be the smartest one in the room
+idea: Hand the floor to whoever knows it best and back them hard.
+why: Marcus 1.16: Antoninus yielding to experts and supporting them so each could do their best.
+stage: read
+
+## complaining-about-work
+for: about to complain about work
+idea: Don't. Not out loud, not in my head. Do the job without whining.
+why: Marcus 8.9 and 1.15.
+stage: read

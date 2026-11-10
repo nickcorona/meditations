@@ -20,7 +20,7 @@ One blank line between entries. No other fields, no extra prose inside entries.
 - Each entry is one idea, plus the trigger it's for. Plain language, no em dashes.
 - Write `for:` as an internal state ("replaying what someone said"), not an external event ("someone criticized me").
 - For something I'm avoiding, `idea:` is the small action to take, not a reframe.
-- Cap the list at about 20 entries. When I add one, ask which existing one it replaces or merges with.
+- No cap on the list. Before adding one, check it isn't already covered by an existing entry; if it is, merge them instead.
 - New entries start as `stage: read`. Flip to `recall` once I can produce it, even shakily.
 - Rewrite lines in place when they stop landing or I catch myself reciting them on autopilot. Git history keeps the old wording, so no separate archive file.
 - Commit and push after every change with a short message naming the entry (e.g. `add: replaying-criticism`, `reword: morning-dread`, `recall: other-peoples-opinions`).
