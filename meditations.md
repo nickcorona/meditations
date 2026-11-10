@@ -1,6 +1,6 @@
 # Meditations
 
-Ranked by usefulness, most useful first. Cue Home cycles through them in this order.
+Ranked by usefulness, most useful first. Cue Home introduces them in this order, then tests them with spaced repetition.
 
 ## circling-a-task
 for: circling a task I keep putting off
