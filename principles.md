@@ -20,9 +20,6 @@ Just that you do the right thing. The rest doesn’t matter.
 ## 8.47
 External things are not the problem. It’s your assessment of them.
 
-## 4.7
-Choose not to be harmed—and you won’t feel harmed. Don’t feel harmed—and you haven’t been.
-
 ## 5.20
 The impediment to action advances action. What stands in the way becomes the way.
 
@@ -40,9 +37,6 @@ The best revenge is not to be like that.
 
 ## 12.4
 We all love ourselves more than other people, but care more about their opinion than our own.
-
-## 4.3
-Disturbance comes only from within—from our own perceptions.
 
 ## 5.16
 Your soul takes on the color of your thoughts.
@@ -74,17 +68,11 @@ You could leave life right now. Let that determine what you do and say and think
 ## 12.17
 If it’s not right, don’t do it. If it’s not true, don’t say it.
 
-## 4.49
-To be like the rock that the waves keep crashing over. It stands unmoved and the raging of the sea falls still around it.
-
 ## 4.49a
 The thing itself was no misfortune at all; to endure it and prevail is great good fortune.
 
 ## 6.51
 Sanity means tying it to your own actions.
-
-## 8.48
-The mind without passions is a fortress.
 
 ## 7.71
 It’s silly to try to escape other people’s faults. They are inescapable. Just try to escape your own.
@@ -94,9 +82,6 @@ People exist for one another. You can instruct or endure them.
 
 ## 6.53
 Practice really hearing what people say. Do your best to get inside their minds.
-
-## 9.40
-Not “some way to sleep with her”—but a way to stop wanting to.
 
 ## 7.15
 No matter what anyone says or does, my task is to be good.
@@ -118,18 +103,6 @@ Fight to be the person philosophy tried to make you.
 
 ## 4.32
 You’re better off not giving the small things more time than they deserve.
-
-## 7.8
-Forget the future. When and if it comes, you’ll have the same resources to draw on—the same logos.
-
-## 5.25
-So other people hurt me? That’s their problem.
-
-## 9.6
-Objective judgment, now, at this very moment. Unselfish action, now, at this very moment. Willing acceptance—now, at this very moment—of all external events. That’s all you need.
-
-## 12.22
-It’s all in how you perceive it.
 
 ## 3.10
 Each of us lives only now, this brief instant.
