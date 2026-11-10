@@ -32,13 +32,14 @@ why: Only the present is real. (8.36)
 stage: read
 
 ## spinning-on-outcomes
-for: spinning on something I can't control
+for: stuck on an outcome I don't control
 idea: Do my part. Let the rest land.
+why: The goal was to try. (6.50)
 stage: read
 
 ## replaying-criticism
-for: replaying what someone said about me
-idea: Their opinion, their problem. Keep what's useful.
+for: replaying what someone said, or wanting their approval
+idea: Would I take their advice on anything else?
 why: We care too much what others think. (12.4)
 stage: read
 
@@ -49,9 +50,9 @@ why: Nobody's days are all good. (5.9)
 stage: read
 
 ## heat-at-someone
-for: heat rising at how someone's acting
+for: irritated at someone, or bracing for them
 idea: They think they're right. I've been that wrong.
-why: Nobody does wrong on purpose. (2.1)
+why: Best revenge: don't be like them. (6.6)
 stage: read
 
 ## reading-into-it
@@ -80,7 +81,7 @@ stage: read
 
 ## hard-means-impossible
 for: telling myself I can't do it because it's hard
-idea: Hard isn't impossible.
+idea: Do the smallest rep of it today.
 why: If someone can do it, so can I. (6.19)
 stage: read
 
@@ -96,12 +97,6 @@ idea: If they're right, I win too.
 why: The truth never hurt anyone. (6.21)
 stage: read
 
-## wanting-approval
-for: wanting someone's approval
-idea: Would I take their advice on anything else?
-why: Look at whose approval I want. (7.62)
-stage: read
-
 ## measuring-against-others
 for: measuring my life against someone else's
 idea: My lane. Better than last month?
@@ -115,7 +110,7 @@ stage: read
 
 ## fixating-on-someone
 for: fixating on one specific person
-idea: Stop needing them, not get them.
+idea: The goal is to stop wanting, not to get.
 why: Ask to stop wanting, not to get. (9.40)
 stage: read
 
@@ -136,12 +131,6 @@ idea: Send the message. Ask.
 why: No shame in needing help. (7.7)
 stage: read
 
-## did-everything-right
-for: did everything right and it still didn't land
-idea: I did my part. The result isn't mine.
-why: The goal was to try. (6.50)
-stage: read
-
 ## worried-what-theyll-think
 for: second-guessing a right call because of what people will say
 idea: If it's right, do it anyway.
@@ -153,19 +142,9 @@ idea: Do something about it or drop it.
 why: It's my take on it, not the thing. (8.47)
 stage: read
 
-## bracing-for-people
-for: bracing for a day of difficult people
-idea: Annoying, but same team.
-stage: read
-
 ## half-listening
 for: waiting for my turn to talk
 idea: Listen first. Answer after.
-stage: read
-
-## wanting-revenge
-for: wanting to get back at someone
-idea: Best revenge: don't be like them.
 stage: read
 
 ## burned-once
@@ -202,17 +181,18 @@ stage: read
 
 ## after-a-win
 for: feeling full of myself after a win
-idea: Stay plain.
+idea: Same job tomorrow. Keep doing the work.
 stage: read
 
 ## feeling-unlucky
 for: feeling unlucky that this happened to me
-idea: Lucky I came through it fine.
+idea: What can I do with it now?
+why: Bearing it well is the good luck. (4.49a)
 stage: read
 
 ## too-busy
 for: about to tell someone I'm too busy
-idea: Only if it's true.
+idea: Am I actually busy, or avoiding it?
 stage: read
 
 ## wanting-what-i-dont-have
@@ -221,8 +201,8 @@ idea: Picture losing what I have.
 stage: read
 
 ## needing-a-lift
-for: feeling low about people in general
-idea: One good thing about each person here.
+for: fed up with the people around me
+idea: Name one good thing about each of them.
 stage: read
 
 ## wanting-to-escape
