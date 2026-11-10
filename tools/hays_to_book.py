@@ -40,6 +40,12 @@ def find_books(lines):
     return starts, end
 
 
+def ocr_fixes(p):
+    """The scan's usual misreads of "I": a lone 1 before a word ("1 needed"), and "Em" for "I'm"."""
+    p = re.sub(r'(?<![\d.,])\b1 (?=[a-z]{2,})', 'I ', p)
+    return re.sub(r'\bEm\b', 'I\u2019m', p)
+
+
 def paragraphs(lines):
     """Wrapped lines -> paragraphs; a blank line ends one. Hyphen and dash line ends join tight."""
     out, cur = [], ''
@@ -69,7 +75,7 @@ def paragraphs(lines):
             merged[-1] = merged[-1] + sep + p
         else:
             merged.append(p)
-    return merged
+    return [ocr_fixes(p) for p in merged]
 
 
 # The scan sometimes reads a 1 as "l" or "I" and splits a number ("ll.FRONTO" for 11, "1 la." for
@@ -83,6 +89,48 @@ def fix_number(line):
         return line
     digits = m.group(1).replace(' ', '').replace('l', '1').replace('I', '1')
     return digits + m.group(2) + '.' + line[m.end():] if digits.isdigit() else line
+
+
+DUP = re.compile(r'\b([A-Z]+)([A-Z][a-z]+)\b')  # "MAXIMUSMaximus": the scan doubled the name
+
+
+def undouble(t):
+    return DUP.sub(lambda m: m.group(1) if m.group(1).lower() == m.group(2).lower() else m.group(0), t)
+
+
+def is_caps(line):
+    """A Book 1 title line: mostly capitals (the scan adds stray lower-case marks, like f for the
+    dagger in "REPUTATIONf")."""
+    letters = [c for c in undouble(line.strip()) if c.isalpha()]
+    return len(letters) >= 3 and sum(c.isupper() for c in letters) / len(letters) >= 0.8
+
+
+SMALL = {'and', 'of', 'the', 'to', 'in', 'a'}
+SHORT_WORDS = {'MY', 'THE', 'AND', 'HIS', 'OWN', 'FROM', 'OF'}
+
+
+def clean_title(t):
+    """"MY FATHER (FROM MY OWN MEMORIES AND HIS\nREPUT ATIONf)" -> "My Father (From My Own Memories
+    and His Reputation)". Drops the scan's stray marks, rejoins a word it split (a short fragment
+    followed by one starting with a vowel, like REPUT ATION), and title-cases."""
+    t = undouble(t)
+    t = re.sub(r'(?<=[A-Z])[a-z]+(?=[)\]]|$)', '', t)
+    toks = re.sub(r'\s+', ' ', t).strip().split(' ')
+    joined = []
+    for tok in toks:
+        prev = joined[-1] if joined else ''
+        if (prev.isalpha() and prev.isupper() and len(prev) <= 5 and prev not in SHORT_WORDS
+                and re.match(r'^[AEIOU][A-Z]{2,}', tok)):
+            joined[-1] = prev + tok
+        else:
+            joined.append(tok)
+    out = []
+    for i, w in enumerate(joined):
+        w = w.lower()
+        core = w.strip('()[]')
+        cap = i == 0 or core not in SMALL or w.startswith(('(', '['))
+        out.append(re.sub(r'[a-z]', lambda m: m.group(0).upper(), w, count=1) if cap else w)
+    return ' '.join(out)
 
 
 def split_book(n, lines):
@@ -106,13 +154,15 @@ def split_book(n, lines):
         if n == 1:
             # Book 1 entries open with a title in capitals, sometimes over two lines.
             caps = []
-            while lines and lines[0].strip() and lines[0].strip() == lines[0].strip().upper() and re.search('[A-Z]', lines[0]):
+            while lines and is_caps(lines[0]):
                 caps.append(lines.pop(0).strip())
             if caps:
-                title = ' '.join(caps).title()
+                title = clean_title(' '.join(caps))
         paras = paragraphs(lines)
-        if title:
-            paras = [title + '.'] + paras
+        if title and paras:
+            paras[0] = f'{title}: {paras[0]}'
+        elif title:
+            paras = [title]
         text = '\n\n'.join(p for p in paras if p)
         if text:
             out.append((e['ref'], text))

@@ -5,41 +5,25 @@ Translated by Gregory Hays. One entry per `## book.section` heading; Cue Home re
 # Book 1
 
 ## 1.1
-My Grandfather Verus.
-
-Character and self-control.
+My Grandfather Verus: Character and self-control.
 
 ## 1.2
-My Father (From My Own Memories And His.
-
-REPUT ATIONf)
-
-Integrity and manliness.
+My Father (From My Own Memories and His Reputation): Integrity and manliness.
 
 ## 1.3
-My Mother.
-
-Her reverence for the divine, her generosity, her inability not only to do wrong but even to conceive of doing it. And the simple way she lived—not in the least like the rich.
+My Mother: Her reverence for the divine, her generosity, her inability not only to do wrong but even to conceive of doing it. And the simple way she lived—not in the least like the rich.
 
 ## 1.4
-My Great-Grandfather.
-
-To avoid the public schools, to hire good private teachers, and to accept the resulting costs as money well-spent.
+My Great-grandfather: To avoid the public schools, to hire good private teachers, and to accept the resulting costs as money well-spent.
 
 ## 1.5
-My First Teacher.
-
-Not to support this side or that in chariot-racing, this fighter or that in the games. To put up with discomfort and not make demands. To do my own work, mind my own business, and have no time for slanderers.
+My First Teacher: Not to support this side or that in chariot-racing, this fighter or that in the games. To put up with discomfort and not make demands. To do my own work, mind my own business, and have no time for slanderers.
 
 ## 1.6
-Diognetus.
-
-Not to waste time on nonsense. Not to be taken in by conjurors and hoodoo artists with their talk about incantations and exorcism and all the rest of it. Not to be obsessed with quail-fighting or other crazes like that. To hear unwelcome truths. To practice philosophy, and to study with Baccheius, and then with Tandasis and Marcianus. To write dialogues as a student. To choose the Greek lifestyle—the camp-bed and the cloak.
+Diognetus: Not to waste time on nonsense. Not to be taken in by conjurors and hoodoo artists with their talk about incantations and exorcism and all the rest of it. Not to be obsessed with quail-fighting or other crazes like that. To hear unwelcome truths. To practice philosophy, and to study with Baccheius, and then with Tandasis and Marcianus. To write dialogues as a student. To choose the Greek lifestyle—the camp-bed and the cloak.
 
 ## 1.7
-Rusticus.
-
-The recognition that 1 needed to train and discipline my character.
+Rusticus: The recognition that I needed to train and discipline my character.
 
 Not to be sidetracked by my interest in rhetoric. Not to write treatises on abstract questions, or deliver moralizing little sermons, or compose imaginary descriptions of The Simple Life or The Man Who Lives Only for Others. To steer clear of oratory, poetry and belles lettres.
 
@@ -50,18 +34,14 @@ To read attentively—not to be satisfied with “just getting the gist of it.�
 And for introducing me to Epictetus’s lectures—and loaning me his own copy.
 
 ## 1.8
-Apollonius.
-
-Independence and unvarying reliability, and to pay attention to nothing, no matter how fleetingly, except the logos. And to be the same in all circumstances—intense pain, the loss of a child, chronic illness. And to see clearly, from his example, that a man can show both strength and flexibility.
+Apollonius: Independence and unvarying reliability, and to pay attention to nothing, no matter how fleetingly, except the logos. And to be the same in all circumstances—intense pain, the loss of a child, chronic illness. And to see clearly, from his example, that a man can show both strength and flexibility.
 
 His patience in teaching. And to have seen someone who clearly viewed his expertise and ability as a teacher as the humblest of virtues.
 
 And to have learned how to accept favors from friends without losing your self-respect or appearing ungrateful.
 
 ## 1.9
-Sextus.
-
-Kindness.
+Sextus: Kindness.
 
 An example of fatherly authority in the home. What it means to live as nature requires.
 
@@ -76,40 +56,28 @@ Not to display anger or other emotions. To be free of passion and yet full of lo
 To praise without bombast; to display expertise without pretension.
 
 ## 1.10
-The Literary Critic Alexander.
-
-Not to be constantly correcting people, and in particular not to jump on them whenever they make an error of usage or a grammatical mistake or mispronounce something, but just answer their question or add another example, or debate the issue itself (not their phrasing), or make some other contribution to the discussion—and insert the right expression, unobtrusively.
+The Literary Critic Alexander: Not to be constantly correcting people, and in particular not to jump on them whenever they make an error of usage or a grammatical mistake or mispronounce something, but just answer their question or add another example, or debate the issue itself (not their phrasing), or make some other contribution to the discussion—and insert the right expression, unobtrusively.
 
 ## 1.11
-Fronto.
-
-To recognize the malice, cunning, and hypocrisy that power produces, and the peculiar ruthlessness often shown by people from “good families.”
+Fronto: To recognize the malice, cunning, and hypocrisy that power produces, and the peculiar ruthlessness often shown by people from “good families.”
 
 ## 1.12
-Alexander The Platonist.
-
-Not to be constantly telling people (or writing them) that Em too busy, unless I really am Similarly, not to be always ducking my responsibilities to the people around me because of “pressing business.”
+Alexander the Platonist: Not to be constantly telling people (or writing them) that I’m too busy, unless I really am Similarly, not to be always ducking my responsibilities to the people around me because of “pressing business.”
 
 ## 1.13
-Catulus.
-
-Not to shrug off a friend’s resentment—even unjustified resentment—but try to put things right.
+Catulus: Not to shrug off a friend’s resentment—even unjustified resentment—but try to put things right.
 
 To show your teachers ungrudging respect (the Domitius and Athenodotus story), and your children unfeigned love.
 
 ## 1.14
-[My Brother] Severus.
-
-To love my family, truth and justice. It was through him that I encountered Thrasea, Helvidius, Cato, Dion and Brutus, and conceived of a society of equal laws, governed by equality of status and of speech, and of rulers who respect the liberty of their subjects above all else.
+[My Brother] Severus: To love my family, truth and justice. It was through him that I encountered Thrasea, Helvidius, Cato, Dion and Brutus, and conceived of a society of equal laws, governed by equality of status and of speech, and of rulers who respect the liberty of their subjects above all else.
 
 And from him as well, to be steady and consistent in valuing philosophy.
 
 And to help others and be eager to share, not to be a pessimist, and never to doubt your friends’ affection for you. And that when people incurred his disapproval, they always knew it. And that his friends never had to speculate about his attitude to anything: it was always clear.
 
 ## 1.15
-MAXIMUSMaximus
-
-Self-control and resistance to distractions.
+Maximus: Self-control and resistance to distractions.
 
 Optimism in adversity—especially illness.
 
@@ -130,9 +98,7 @@ That no one could ever have felt patronized by him—or in a position to patroni
 A sense of humor.
 
 ## 1.16
-My Adopted Father.
-
-Compassion. Unwavering adherence to decisions, once he’d reached them. Indifference to superficial honors. Hard work. Persistence.
+My Adopted Father: Compassion. Unwavering adherence to decisions, once he’d reached them. Indifference to superficial honors. Hard work. Persistence.
 
 Listening to anyone who could contribute to the public good.
 
@@ -189,9 +155,7 @@ You could have said of him (as they say of Socrates) that he knew how to enjoy a
 (Maximus’s illness.)
 
 ## 1.17
-The Gods.
-
-That I had good grandparents, a good mother and father, a good sister, good teachers, good servants, relatives, friends —almost without exception. And that 1 never lost control of myself with any of them, although I had it in me to do that, and I might have, easily. But thanks to the gods, I was never put in that position, and so escaped the test.
+The Gods: That I had good grandparents, a good mother and father, a good sister, good teachers, good servants, relatives, friends —almost without exception. And that I never lost control of myself with any of them, although I had it in me to do that, and I might have, easily. But thanks to the gods, I was never put in that position, and so escaped the test.
 
 That I wasn’t raised by my grandfather’s girlfriend for longer than I was. That I didn’t lose my virginity too early, and didn’t enter adulthood until it was time—put it off, even.
 
@@ -205,7 +169,7 @@ That I wasn’t more talented in rhetoric or poetry, or other areas. If I’d fe
 
 That I conferred on the people who brought me up the honors they seemed to want early on. instead of putting them off (since they were still young) with the hope that I’d do it later.
 
-That 1 knew Apollonius, and Rusticus, and Maximus.
+That I knew Apollonius, and Rusticus, and Maximus.
 
 That I was shown clearly and often what it would be like to live as nature requires. The gods did all they could—through their gifts, their help, their inspiration—to ensure that I could live as nature demands. And if I’ve failed, it’s no one’s fault but mine. Because I didn’t pay attention to what they told me—to what they taught me, practically, step by step.
 
@@ -219,7 +183,7 @@ That even though she died young, at least my mother spent her last years with me
 
 That whenever I felt like helping someone who was short of money, or otherwise in need, I never had to be told that I had no resources to do it with. And that I was never put in that position myself—of having to take something from someone else.
 
-That 1 have the wife I do: obedient, loving, humble.
+That I have the wife I do: obedient, loving, humble.
 
 That my children had competent teachers.
 
@@ -232,10 +196,10 @@ All things for which “we need the help of fortune and the gods.”
 # Book 2
 
 ## 2.1
-When you wake up in the morning, tell yourself: The people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous, and surly. They are like this because they can’t tell good from evil. But I have seen the beauty of good, and the ugliness of evil, and have recognized that the wrongdoer has a nature related to my own—not of the same blood or birth, but the same mind, and possessing a share of the divine. And so none of them can hurt me. No one can implicate me in ugliness. Nor can 1 feel angry at my relative, or hate him We were born to work together like feet, hands, and eyes, like the two rows of teeth, upper and lower. To obstruct each other is unnatural. To feel anger at someone, to turn your back on him: these are obstructions.
+When you wake up in the morning, tell yourself: The people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous, and surly. They are like this because they can’t tell good from evil. But I have seen the beauty of good, and the ugliness of evil, and have recognized that the wrongdoer has a nature related to my own—not of the same blood or birth, but the same mind, and possessing a share of the divine. And so none of them can hurt me. No one can implicate me in ugliness. Nor can I feel angry at my relative, or hate him We were born to work together like feet, hands, and eyes, like the two rows of teeth, upper and lower. To obstruct each other is unnatural. To feel anger at someone, to turn your back on him: these are obstructions.
 
 ## 2.2
-Whatever this is that 1 am, it is flesh and a little spirit and an intelligence. Throw away your books; stop letting yourself be distracted. That is not allowed. Instead, as if you were dying right now, despise your flesh. A mess of blood, pieces of bone, a woven tangle of nerves, veins, arteries. Consider what the spirit is: air, and never the same air, but vomited out and gulped in again every instant. Finally, the intelligence. Think of it this way: You are an old man. Stop allowing your mind to be a slave, to be jerked about by selfish impulses, to kick against fate and the present, and to mistrust the future.
+Whatever this is that I am, it is flesh and a little spirit and an intelligence. Throw away your books; stop letting yourself be distracted. That is not allowed. Instead, as if you were dying right now, despise your flesh. A mess of blood, pieces of bone, a woven tangle of nerves, veins, arteries. Consider what the spirit is: air, and never the same air, but vomited out and gulped in again every instant. Finally, the intelligence. Think of it this way: You are an old man. Stop allowing your mind to be a slave, to be jerked about by selfish impulses, to kick against fate and the present, and to mistrust the future.
 
 ## 2.3
 What is divine is full of Providence. Even chance is not divorced from nature, from the inweaving and enfolding of things governed by Providence. Everything proceeds from it. And then there is necessity and the needs of the whole world, of which you are a part. Whatever the nature of the whole does, and whatever serves to maintain it, is good for every part of nature. The world is maintained by change—in the elements and in the things they compose. That should be enough for you; treat it as an axiom. Discard your thirst for books, so that you won’t die in bitterness, but in cheerfulness and truth, grateful to the gods from the bottom of your heart.
@@ -574,7 +538,7 @@ But suppose that those who remembered you were immortal and your memory undying.
 “ You’re out of step—neglecting the gifts of nature to hand on someone’s words in the future. “
 
 ## 4.20
-Beautiful things of any kind are beautiful in themselves and sufficient to themselves. Praise is extraneous. The object of praise remains what it was—no better and no worse. This applies, 1 think, even to “beautiful” things in ordinary life—physical objects, artworks.
+Beautiful things of any kind are beautiful in themselves and sufficient to themselves. Praise is extraneous. The object of praise remains what it was—no better and no worse. This applies, I think, even to “beautiful” things in ordinary life—physical objects, artworks.
 
 Does anything genuinely beautiful need supplementing? No more than justice does—or truth, or kindness, or humility. Are any of those improved by being praised? Or damaged by contempt? Is an emerald suddenly flawed if no one admires it? Or gold, or ivory, or purple? Lyres? Knives? Flowers? Bushes?
 
@@ -761,7 +725,7 @@ Take the shortest route, the one that nature planned—to speak and act in the h
 # Book 5
 
 ## 5.1
-At dawn, when you have trouble getting out of bed, tell yourself: “1 have to go to work—as a human being. What do I have to complain of, if I’m going to do what I was born for—the things I was brought into the world to do? Or is this what I was created for? To huddle under the blankets and stay warm?
+At dawn, when you have trouble getting out of bed, tell yourself: “I have to go to work—as a human being. What do I have to complain of, if I’m going to do what I was born for—the things I was brought into the world to do? Or is this what I was created for? To huddle under the blankets and stay warm?
 
 —But it’s nicer here. .. .
 
@@ -850,7 +814,7 @@ Things are wrapped in such a veil of mystery that many good philosophers have fo
 
 Look closely at them—how impermanent they are, how meaningless. Things that a pervert can own, a whore, a thief.
 
-Then look at the way the people around you behave. Even the best of them are hard to put Lip with—not to mention putting up with yourself. In such deep darkness, such a sewer —in the flux of material, of time, of motion and things moved —1 don’t know what there is to value or to work for.
+Then look at the way the people around you behave. Even the best of them are hard to put Lip with—not to mention putting up with yourself. In such deep darkness, such a sewer —in the flux of material, of time, of motion and things moved —I don’t know what there is to value or to work for.
 
 Quite the contrary. We need to comfort ourselves and wait for dissolution. And not get impatient in the meantime, but take refuge in these two things:
 
@@ -1032,7 +996,7 @@ f Up on the platform, f
 
 Have you forgotten what’s what?
 
-—1 know, but it was important to them.
+—I know, but it was important to them.
 
 And so you have to be an idiot as well?
 
@@ -1207,7 +1171,7 @@ So that when your time comes, your conscience will be as clear as his.
 Awaken; return to yourself. Now, no longer asleep, knowing they were only dreams, clear-headed again, treat everything around you as a dream
 
 ## 6.32
-1 am composed of a body and a soul.
+I am composed of a body and a soul.
 
 Things that happen to the body are meaningless. It cannot discriminate among them
 
@@ -1268,7 +1232,7 @@ Does the sun try to do the rain’s work? Or Asclepius Demeter’s? And what abo
 ## 6.44
 If the gods have made decisions about me and the things that happen to me, then they were good decisions. (It’s hard to picture a god who makes bad ones.) And why would they expend their energies on causing me harm? What good would it do them—or the world, which is their primary concern?
 
-And if they haven’t made decisions about me as an individual, they certainly have about the general welfare. And anything that follows from that is something 1 have to welcome and embrace.
+And if they haven’t made decisions about me as an individual, they certainly have about the general welfare. And anything that follows from that is something I have to welcome and embrace.
 
 And if they make no decisions, about anything—and it’s blasphemous even to think so (because if so, then let’s stop sacrificing, praying, swearing oaths, and doing all the other things we do, believing the whole time that the gods are right here with us)—if they decide nothing about our lives . . . well, I can still make decisions. Can still consider what it’s to my benefit to do. And what benefits anyone is to do what his own nature requires. And mine is rational. Rational and civic.
 
@@ -1374,7 +1338,7 @@ Surrounded as we are by all of this, we need to practice acceptance. Without dis
 Focus on what is said when you speak and on what results from each action. Know what the one aims at, and what the other means.
 
 ## 7.5
-Is my intellect up to this? If so, then I’ll put it to work, like a tool provided by nature. And if it isn’t, then I’ll turn the job over to someone who can do better—unless 1 have no choice.
+Is my intellect up to this? If so, then I’ll put it to work, like a tool provided by nature. And if it isn’t, then I’ll turn the job over to someone who can do better—unless I have no choice.
 
 Or I do the best I can with it, and collaborate with whoever can make use of it, to do what the community needs done. Because whatever I do—alone or with others—can aim at one thing only: what squares with those requirements.
 
@@ -1790,7 +1754,7 @@ No pointless actions.
 What dies doesn’t vanish. It stays here in the world, transformed, dissolved, as parts of the world, and of you. Which are transformed in turn—without grumbling.
 
 ## 8.19
-Everything is here for a purpose, from horses to vine shoots. What’s surprising about that? Even the sun will tell you, “1 have a purpose,” and the other gods as well. And why were you born? For pleasure? See if that answer will stand up to questioning.
+Everything is here for a purpose, from horses to vine shoots. What’s surprising about that? Even the sun will tell you, “I have a purpose,” and the other gods as well. And why were you born? For pleasure? See if that answer will stand up to questioning.
 
 ## 8.20
 Nature is like someone throwing a ball in the air, gauging its rise and arc—and where it will fall. And what does the ball gain as it flies upward? Or lose when it plummets to earth?
@@ -1813,7 +1777,7 @@ Stick to what’s in front of you—idea, action, utterance.
 This is what you deserve. You could be good today. But instead you choose tomorrow.
 
 ## 8.23
-What I do? 1 attribute it to human beneficence.
+What I do? I attribute it to human beneficence.
 
 What is done to me? I accept it—and attribute it to the gods, and that source from which all things together flow.
 
@@ -1851,7 +1815,7 @@ iii. with the people around you.
 Either pain affects the body (which is the body’s problem) or it affects the soul. But the soul can choose not to be affected, preserving its own serenity, its own tranquillity. All our decisions, urges, desires, aversions lie within. No evil can touch them.
 
 ## 8.29
-To erase false perceptions, tell yourself: 1 have it in me to keep my soul from evil, lust and all confusion. To see things as they are and treat them as they deserve. Don’t overlook this innate ability.
+To erase false perceptions, tell yourself: I have it in me to keep my soul from evil, lust and all confusion. To see things as they are and treat them as they deserve. Don’t overlook this innate ability.
 
 ## 8.30
 To speak to the Senate—or anyone—in the right tone, without being overbearing. To choose the right words.
@@ -1905,7 +1869,7 @@ The stench of decay. Rotting meat in a bag.
 Look at it clearly. If you can.
 
 ## 8.39
-“To the best of my judgment, when I look at the human character I see no virtue placed there to counter justice. But 1 see one to counter pleasure: self-control.”
+“To the best of my judgment, when I look at the human character I see no virtue placed there to counter justice. But I see one to counter pleasure: self-control.”
 
 ## 8.40
 Stop perceiving the pain you imagine and you’ll remain completely unaffected.
@@ -1926,7 +1890,7 @@ Apply this to yourself.
 Do pain and pleasure have their hooks in you? Let the senses deal with it. Are there obstacles to your action? If you failed to reckon with the possibility, then that would harm you, as a rational being. But if you use common sense, you haven’t been harmed or even obstructed. No one can obstruct the operations of the mind. Nothing can get at them—not fire or steel, not tyrants, not abuse—nothing. As long as it’s “a sphere . . . in perfect stillness.”
 
 ## 8.42
-1 have no right to do myself an injury. Have I ever injured anyone else iff could avoid it?
+I have no right to do myself an injury. Have I ever injured anyone else iff could avoid it?
 
 ## 8.43
 People find pleasure in different ways. I find it in keeping my mind clear. In not turning away from people or the things that happen to them. In accepting and welcoming everything I see. In treating each thing as it deserves.
@@ -2345,9 +2309,9 @@ If they’ve made a mistake, correct them gently and show them where they went w
 Whatever happens to you has been waiting to happen since the beginning of time. The twining strands of fate wove both of them together: your own existence and the things that happen to you.
 
 ## 10.6
-Whether it’s atoms or nature, the first thing to be said is this: I am a part of a world controlled by nature. Secondly: that 1 have a relationship with other, similar parts. And with that in mind I have no right, as a part, to complain about what is assigned me by the whole. Because what benefits the whole can’t harm the parts, and the whole does nothing that doesn’t benefit it. That’s a trait shared by all natures, but the nature of the world is defined by a second characteristic as well: no outside force can compel it to cause itself harm
+Whether it’s atoms or nature, the first thing to be said is this: I am a part of a world controlled by nature. Secondly: that I have a relationship with other, similar parts. And with that in mind I have no right, as a part, to complain about what is assigned me by the whole. Because what benefits the whole can’t harm the parts, and the whole does nothing that doesn’t benefit it. That’s a trait shared by all natures, but the nature of the world is defined by a second characteristic as well: no outside force can compel it to cause itself harm
 
-So by keeping in mind the whole I form a part of. I’ll accept whatever happens. And because of my relationship to other parts, I will do nothing selfish, but aim instead to join them, to direct my every action toward what benefits us all and to avoid what doesn’t. If 1 do all that, then my life should go smoothly. As you might expect a citizen’s life to go—one whose actions serve his fellow citizens, and who embraces the community’s decree.
+So by keeping in mind the whole I form a part of. I’ll accept whatever happens. And because of my relationship to other parts, I will do nothing selfish, but aim instead to join them, to direct my every action toward what benefits us all and to avoid what doesn’t. If I do all that, then my life should go smoothly. As you might expect a citizen’s life to go—one whose actions serve his fellow citizens, and who embraces the community’s decree.
 
 ## 10.7
 The whole is compounded by nature of individual parts, whose destruction is inevitable (“destruction” here meaning transformation). If the process is harmful to the parts and unavoidable, then it’s hard to see how the whole can run smoothly, with parts of it passing from one state to another, all of them built only to be destroyed in different ways. Does nature set out to cause its own components harm, and make them vulnerable to it—indeed, predestined to it? Or is it oblivious to what goes on? Neither one seems very plausible.
@@ -2602,7 +2566,7 @@ Self-perceptioa self-examination, and the power to make of itself whatever it wa
 
 It reaps its own harvest, unlike plants (and, in a different way, animals), whose yield is gathered in by others.
 
-It reaches its intended goal, no matter where the limit of its life is set. Not like dancing and theater and things like that, where the performance is incomplete if it’s broken off in the middle, but at any point—no matter which one you pick—it has fulfilled its mission, done its work completely. So that it can say, “1 have what I came for.”
+It reaches its intended goal, no matter where the limit of its life is set. Not like dancing and theater and things like that, where the performance is incomplete if it’s broken off in the middle, but at any point—no matter which one you pick—it has fulfilled its mission, done its work completely. So that it can say, “I have what I came for.”
 
 It surveys the world and the empty space around it, and the way it’s put together. It delves into the endlessness of time to extend its grasp and comprehension of the periodic births and rebirths that the world goes through. It knows that those who come after us will see nothing different, that those who came before us saw no more than we do, and that anyone with forty years behind him and eyes in his head has seen both past and future—both alike.
 
