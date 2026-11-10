@@ -1,0 +1,25 @@
+# When a copy of the Hays translation is uploaded as hays.txt, rebuild book.md from it (Cue Home
+# reads book.md). Uses tools/hays_to_book.py; commits only if book.md changed.
+name: Build book.md from hays.txt
+on:
+  push:
+    branches: [main]
+    paths: [hays.txt, tools/hays_to_book.py]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Convert
+        run: python3 tools/hays_to_book.py hays.txt book.md
+      - name: Commit book.md
+        run: |
+          if git diff --quiet book.md; then echo "book.md unchanged"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add book.md
+          git commit -m "book: rebuild from hays.txt"
+          git push
