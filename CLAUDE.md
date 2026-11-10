@@ -2,8 +2,9 @@
 
 Two files:
 
-- `book.md`: the whole of Marcus Aurelius's Meditations, one entry per `## book.section` heading. Cue Home reads through it in order, one passage at a time, as many as I want. Don't edit the text. It starts as George Long's 1862 translation (public domain). When I upload my own copy of the Gregory Hays translation as `hays.txt` (the archive.org full-text file), the `Build book.md from hays.txt` workflow runs `tools/hays_to_book.py` and replaces `book.md` with it.
-- `skip.md`: passages of `book.md` that Home leaves out, so the reader shows only principles: all of Book 1 (his thanks to people) and bare quotations, name lists and fragments. Add or remove lines to change what shows.
+- `book.md`: the whole of Marcus Aurelius's Meditations, one entry per `## book.section` heading. It's the source the principles are quoted from, and what opens when I tap one. Don't edit the text. It starts as George Long's 1862 translation (public domain). When I upload my own copy of the Gregory Hays translation as `hays.txt` (the archive.org full-text file), the `Build book.md from hays.txt` workflow runs `tools/hays_to_book.py` and replaces `book.md` with it.
+- `principles.md`: what Cue Home actually shows: Marcus's core principles, one line each, quoted word for word from `book.md`, under the `## book.section` of the passage it comes from, most useful first. Home cycles through them; a tap opens the full passage. To add one, quote the line from `book.md` exactly and put it where it ranks.
+- `skip.md`: passages of `book.md` to leave out if Home ever goes back to reading the whole book (only used when there is no `principles.md`): all of Book 1 and bare quotations, name lists and fragments.
 - `meditations.md`: my own short list of ideas, each tied to the situation it's for. Not shown on Home right now; kept for reference. The format below is strict.
 
 ## Format (do not deviate)
