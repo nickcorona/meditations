@@ -3,23 +3,27 @@
 Principles worth keeping, most useful first: Marcus Aurelius (quoted from book.md, under the passage number) and a few other books. Each has `when:` (the moment it applies) and `eg:` (a concrete case), because a rule only helps if I notice I'm in its situation. Entries from other books also have `from:`; public-domain ones are quoted exactly, the rest are paraphrased and say so. Cue Home shows the when and the line; a tap opens the example (and, for Marcus, the full passage).
 
 ## 8.22a
+moment: notnow
 when: I'm pushing a task to tomorrow
 eg: Booking the movers is on Home again. Send the first email now, not tomorrow.
 You could be good today. But instead you choose tomorrow.
 
 ## clear-1
 from: James Clear, Atomic Habits (paraphrased)
+moment: stuck
 when: a habit feels too big to start
 eg: "Go for a run" becomes "put on running shoes."
 Make it so easy you can't say no: start with a version that takes two minutes.
 
 ## 5.1
+moment: wake
 when: I'm lying in bed not wanting to start the day
 eg: The alarm goes and I want ten more minutes. Feet on the floor: the day's work is what I'm for.
 I have to go to work—as a human being.
 
 ## harris-3
 from: Russ Harris, The Happiness Trap (paraphrased)
+moment: notnow
 when: I'm waiting to feel ready before I act
 eg: Waiting to feel confident before messaging a match. Send it while nervous.
 Fighting a feeling makes it bigger. Make room for it and keep moving toward what matters.
@@ -32,6 +36,7 @@ How long, then, will you delay to demand of yourself the noblest improvements?
 
 ## burkeman-4
 from: Oliver Burkeman, Four Thousand Weeks (paraphrased)
+moment: notnow
 when: I'm waiting until things settle down
 eg: "After the move I'll start..." Start now.
 Life never arrives fully under control. Act now, in imperfect conditions.
@@ -44,6 +49,7 @@ We do not have a very short time assigned to us, but we lose a great deal of it.
 
 ## seneca-2
 from: Seneca, On the Shortness of Life
+moment: notnow
 when: I'm getting through the week until something later
 eg: Counting down to Friday, or to after the move.
 Postponement is the greatest waste of life: it wrings day after day from us, and takes away the present by promising something hereafter.
@@ -119,12 +125,14 @@ Outcomes are skill plus luck. Separate the two before you learn anything from on
 
 ## clear-4
 from: James Clear, Atomic Habits (paraphrased)
+moment: nudge
 when: I've missed a day
 eg: Skipped the gym yesterday. Today is non-negotiable.
 Never miss twice. One slip is an accident; two is the start of a new habit.
 
 ## burns-2
 from: David Burns, Feeling Good (paraphrased)
+moment: nudge
 when: one slip makes the whole thing feel ruined
 eg: One off-plan dinner and "the cut is blown." It's one meal in a month.
 All-or-nothing thinking: it's rarely a total failure. Look for the shades of grey.
@@ -141,6 +149,7 @@ eg: Move week. Choose which tasks simply won't happen.
 You'll never get through everything. Decide what to neglect on purpose.
 
 ## 8.36
+moment: stuck
 when: everything feels huge at once
 eg: Move, job search and the cut all pile up on Sunday night. Pick the one thing for tomorrow morning.
 Don’t let your imagination be crushed by life as a whole.
@@ -275,30 +284,35 @@ eg: Someone finds a bug in my code. Thank them; the fix makes my work better.
 It’s the truth I’m after, and the truth never harmed anyone.
 
 ## 7.7
+moment: stuck
 when: I'm stuck and don't want to ask
 eg: An hour stuck on a deploy. Ask someone now.
 Don’t be ashamed to need help.
 
 ## clear-5
 from: James Clear, Atomic Habits (paraphrased)
+moment: unlock
 when: I keep falling into the same distraction
 eg: Phone keeps pulling me off work. Put it in another room.
 Make the bad habit hard: put friction between you and the cue.
 
 ## newport-1
 from: Cal Newport, Digital Minimalism (paraphrased)
+moment: unlock
 when: I reach for my phone out of boredom
 eg: Waiting in line at the store. Leave the phone in my pocket.
 Practice solitude: let your mind be alone with its own thoughts instead of filling every gap.
 
 ## newport-3
 from: Cal Newport, Digital Minimalism (paraphrased)
+moment: unlock
 when: the evening's empty and I'm scrolling
 eg: 9pm on the couch. Cook something, lift, read, or go out.
 Replace low-quality leisure with demanding, real-world activity.
 
 ## burkeman-2
 from: Oliver Burkeman, Four Thousand Weeks (paraphrased)
+moment: wake
 when: I'm saving the important work for later in the day
 eg: Job applications before email and Slack.
 Do the thing that matters most first, before the day gets its hands on you.
@@ -423,6 +437,7 @@ eg: Someone's hostile in a review. A kind, specific answer disarms more than sar
 Kindness is invincible, provided it’s sincere—not ironic or an act.
 
 ## 5.9
+moment: nudge
 when: I'm replaying a slip
 eg: Ate off-plan last night. Back on today, no punishment.
 To get back up when you fail, to celebrate behaving like a human.
@@ -433,6 +448,7 @@ eg: A flat, irritable day. One decent act gets it going.
 Dig deep; the water—goodness—is down there. And as long as you keep digging, it will keep bubbling up.
 
 ## 6.30
+moment: unlock
 when: I notice I'm drifting from who I mean to be
 eg: Third night of scrolling late. That's not who I'm building.
 Fight to be the person philosophy tried to make you.
