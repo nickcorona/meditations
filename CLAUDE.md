@@ -1,6 +1,9 @@
 # Meditations
 
-My personal version of Marcus Aurelius's Meditations: a short list of ideas in my own words, each tied to the situation it's for. A widget on the Cue Home screen parses `meditations.md`, so the format is strict.
+Two files:
+
+- `book.md`: the whole of Marcus Aurelius's Meditations (George Long's 1862 translation, public domain), one entry per `## book.section` heading. Cue Home reads through it in order, one passage at a time, as many as I want. Don't edit the text.
+- `meditations.md`: my own short list of ideas, each tied to the situation it's for. Not shown on Home right now; kept for reference. The format below is strict.
 
 ## Format (do not deviate)
 
