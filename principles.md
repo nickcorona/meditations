@@ -405,11 +405,35 @@ when: I'm hiding my interest to stay safe
 eg: Hedging instead of saying "I'd like to see you again." Say it.
 State your interest honestly and let them respond. A no just means you're not a match.
 
+## schafer-2
+from: Jack Schafer, The Like Switch (paraphrased)
+when: I'm waiting for an obvious sign she's interested
+eg: She looks over twice and stays nearby. That's the sign; say hi.
+Interest shows in small signals: a second look, a quick eyebrow raise, staying close. Treat them as an invitation.
+
+## jiang-1
+from: Jia Jiang, Rejection Proof (paraphrased)
+when: I'm afraid a no will mean something about me
+eg: Not saying hi because she might not be interested. Count the attempts, not the outcomes.
+A rejection is one person's answer in one moment, not a verdict. Aim for a number of tries, not a result.
+
 ## manson-2
 from: Mark Manson, Models (paraphrased)
 when: I'm watering myself down to be liked
 eg: A bland bio or opener written to offend no one.
 Show who you really are. Turning some people off is how the right ones are drawn in.
+
+## vanedwards-1
+from: Vanessa Van Edwards, Captivate (paraphrased)
+when: I'm out somewhere and looking serious or closed off
+eg: Standing at a bar with a neutral face and arms crossed. Relax the face, smile with the eyes, hold eye contact a beat.
+Approachability is visible: a relaxed smile, open posture and held eye contact signal it's safe to come over.
+
+## schafer-1
+from: Jack Schafer, The Like Switch (paraphrased)
+when: I'm wondering why I don't meet anyone
+eg: Same gym and same coffee shop, but never talking to the regulars. Join something weekly where the same people come back.
+Liking grows from proximity, frequency and time together. Put yourself where you'll see the same people again and again.
 
 ## kishimi-4
 from: Kishimi & Koga, The Courage to Be Disliked (paraphrased)
