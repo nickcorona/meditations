@@ -417,6 +417,18 @@ when: I'm afraid a no will mean something about me
 eg: Not saying hi because she might not be interested. Count the attempts, not the outcomes.
 A rejection is one person's answer in one moment, not a verdict. Aim for a number of tries, not a result.
 
+## jiang-2
+from: Jia Jiang, Rejection Proof (paraphrased)
+when: I've just been turned down
+eg: She says she's not interested. Smile, say thanks, and keep the exchange friendly instead of retreating.
+After a no, stay engaged instead of fleeing. Ask why, or thank them; a no often carries information, and sometimes turns into a yes.
+
+## jiang-3
+from: Jia Jiang, Rejection Proof (paraphrased)
+when: I'm dreading putting myself out there
+eg: Before saying hi at a party. Practise on small asks first: a discount, a favour, a compliment to a stranger.
+Practise rejection on purpose with small, low-stakes asks until a no stops stinging.
+
 ## manson-2
 from: Mark Manson, Models (paraphrased)
 when: I'm watering myself down to be liked
@@ -429,11 +441,29 @@ when: I'm out somewhere and looking serious or closed off
 eg: Standing at a bar with a neutral face and arms crossed. Relax the face, smile with the eyes, hold eye contact a beat.
 Approachability is visible: a relaxed smile, open posture and held eye contact signal it's safe to come over.
 
+## vanedwards-2
+from: Vanessa Van Edwards, Captivate (paraphrased)
+when: a conversation is stuck in small talk
+eg: "What do you do?" becomes "Working on anything exciting lately?"
+Swap stock small talk for questions that spark a story or some excitement.
+
+## vanedwards-3
+from: Vanessa Van Edwards, Captivate (paraphrased)
+when: I'm in a group and want to stand out
+eg: Introducing a friend at a party by what's interesting about them, not just their name.
+Make other people look good: introduce them warmly and point out what they're good at. People remember how you made them feel.
+
 ## schafer-1
 from: Jack Schafer, The Like Switch (paraphrased)
 when: I'm wondering why I don't meet anyone
 eg: Same gym and same coffee shop, but never talking to the regulars. Join something weekly where the same people come back.
 Liking grows from proximity, frequency and time together. Put yourself where you'll see the same people again and again.
+
+## schafer-3
+from: Jack Schafer, The Like Switch (paraphrased)
+when: I'm trying hard to impress someone
+eg: Ten minutes on my job and my model. Ask about her instead, and reflect back what she says.
+If you want people to like you, make them feel good about themselves. Ask about them and show you understood.
 
 ## kishimi-4
 from: Kishimi & Koga, The Courage to Be Disliked (paraphrased)
