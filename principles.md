@@ -22,6 +22,13 @@ when: a habit feels too big to start
 eg: "Go for a run" becomes "put on running shoes."
 Make it so easy you can't say no: start with a version that takes two minutes.
 
+## woop-1
+from: Gabriele Oettingen, Rethinking Positive Thinking (paraphrased)
+moment: stuck
+when: I'm about to start something I've been avoiding
+eg: A stretch role: "If I feel I'm not senior enough, I submit anyway."
+Before starting, name the inner obstacle (the feeling, not the circumstance) and decide: if it shows up, I will ___.
+
 ## fiore-1
 from: Neil Fiore, The Now Habit (paraphrased)
 moment: stuck
@@ -34,6 +41,20 @@ moment: wake
 when: I'm lying in bed not wanting to start the day
 eg: The alarm goes and I want ten more minutes. Feet on the floor: the day's work is what I'm for.
 I have to go to work—as a human being.
+
+## sleep-1
+from: Scott et al. 2021, Sleep Medicine Reviews (paraphrased)
+moment: wake
+when: I'm about to sleep in or stay up scrolling
+eg: Bad night before a Monday: up at 7 anyway, no lie-in, in bed by 11 that night.
+Get up at the same time even after a bad night, and protect the sleep window. Sleep is a mood treatment and part of the diet.
+
+## light-1
+from: Menegaz de Almeida et al. 2024, bright light for depression (paraphrased)
+moment: wake
+when: I'm lying in a dark room on a low morning
+eg: Coffee on the balcony or a ten-minute walk before opening the laptop.
+On a low morning, get outside light first thing.
 
 ## harris-3
 from: Russ Harris, The Happiness Trap (paraphrased)
@@ -164,6 +185,24 @@ when: one slip makes the whole thing feel ruined
 eg: One off-plan dinner and "the cut is blown." It's one meal in a month.
 All-or-nothing thinking: it's rarely a total failure. Look for the shades of grey.
 
+## protein-1
+from: Refalo, Trexler & Helms 2025 (paraphrased)
+when: I'm planning meals or ordering food on the cut
+eg: Lunch order: start from the chicken bowl, not the pasta.
+Hit about 1.6 to 2 g of protein per kg every day of the cut, protein first at each meal.
+
+## weigh-1
+from: Madigan et al. 2015, self-weighing meta-analysis (paraphrased)
+when: the scale jumped and I'm panicking, or I've stopped weighing
+eg: Up 1.2 kg after sushi: ignore it, and adjust only if the seven-day average stalls for two weeks.
+Weigh daily, judge the weekly average, act on the trend, not the day.
+
+## dietbreak-1
+from: Peos et al. 2021, ICECAP trial (paraphrased)
+when: hunger and irritability are making me want to quit the cut
+eg: Week ten, starving by 3pm: schedule a maintenance week, then resume.
+A planned week at maintenance is a hunger tool, not a failure. It won't add fat loss; it keeps me on the cut.
+
 ## 4.24
 moment: prioritize
 when: I'm overloaded or about to say yes to something
@@ -194,6 +233,12 @@ from: Russ Harris, The Happiness Trap (paraphrased)
 when: a harsh thought about myself keeps repeating
 eg: "I'm going to mess up this presentation" becomes "I'm having the thought that I'll mess it up."
 Notice the thought as a thought. Saying "I'm having the thought that..." loosens its grip.
+
+## watkins-1
+from: Edward Watkins, Rumination-Focused CBT (paraphrased)
+when: I'm asking "why am I like this?" or replaying criticism
+eg: A VP's comment on my deck. Not "why do I always miss this" but "which slide, what she said, what I'd change."
+Switch "why" to "how": what exactly happened, step by step, and what's one thing I'd do next time?
 
 ## burns-4
 from: David Burns, Feeling Good (paraphrased)
@@ -235,6 +280,12 @@ from: Chris Voss, Never Split the Difference (paraphrased)
 when: I want someone to agree with me
 eg: Pitching a modelling change to a stakeholder. Sum up their concern until they say "That's right."
 Aim for "That's right", not "yes". Summarize their view so well they confirm it.
+
+## negotiate-1
+from: Marks & Harold 2011; Petrowsky et al. 2025 meta-analysis (paraphrased)
+when: a recruiter asks my expectations, or an offer arrives
+eg: An offer at $165k: counter with the market band and a specific number.
+Always counter the first offer. If I know the band, name an ambitious but justified number first.
 
 ## rosenberg-1
 from: Marshall Rosenberg, Nonviolent Communication (paraphrased)
@@ -342,6 +393,12 @@ when: I'm judging a match on looks, height or banter
 eg: Swiping on photos and witty bios. Look for signs of kindness and steadiness instead.
 Weigh long-term traits (kindness, loyalty, how they handle stress) over short-term ones like looks and banter.
 
+## bruch-1
+from: Bruch & Newman 2018, Science Advances (paraphrased)
+when: I'm writing a glowing paragraph to a match
+eg: Cut "You seem amazing, I love that you..." to one question about her photo.
+Keep the first message short and specific. Long, effusive openers don't get more replies.
+
 ## ury-3
 from: Logan Ury, How to Not Die Alone (paraphrased)
 when: a date's turning into a job interview
@@ -377,6 +434,13 @@ when: my mood is turning into a plan to do nothing
 eg: Skipping the gym because I feel down. The plan says lift, so lift.
 Act according to the plan, not the mood.
 
+## gordon-1
+from: Gordon et al. 2018, JAMA Psychiatry (paraphrased)
+moment: nudge
+when: my lifts have stalled on the cut and I want to skip
+eg: Bench dropped five pounds this week and I feel flat. Do three working sets and leave.
+On a low day, lift anyway, even briefly. The mood benefit doesn't depend on the numbers going up; if I can't face the gym, walk.
+
 ## 10.16
 when: I'm reading or planning about getting better instead of doing it
 eg: A third article on discipline tonight. Close it and do the two-minute task.
@@ -387,6 +451,12 @@ from: Epictetus, Enchiridion 13
 when: I'm avoiding something new because I'll look bad at it
 eg: A new lift at the gym or a beginner class. Looking clumsy is the price of getting better.
 If you would improve, be content to be thought foolish and dull with regard to externals.
+
+## safety-1
+from: Plasencia, Taylor & Alden 2016 (paraphrased)
+when: I'm scripting what to say so I don't look awkward
+eg: Rehearsing three openers at a bar. Say "Hi, I'm Nick" and see.
+Drop the safety moves (rehearsing lines, holding back, monitoring myself) and say the plain thing.
 
 ## 6.19
 when: I'm telling myself I can't do it because it's hard
@@ -405,11 +475,23 @@ when: I'm hiding my interest to stay safe
 eg: Hedging instead of saying "I'd like to see you again." Say it.
 State your interest honestly and let them respond. A no just means you're not a match.
 
+## kreager-1
+from: Kreager et al. 2014; Moore 1985 (paraphrased)
+when: I'm waiting for her to make the first move
+eg: She glanced over twice at the climbing gym. Walk over; don't wait for a third look.
+Not being approached is the base rate, not a verdict on my looks. Women mostly signal and wait, so I go first.
+
 ## schafer-2
 from: Jack Schafer, The Like Switch (paraphrased)
 when: I'm waiting for an obvious sign she's interested
 eg: She looks over twice and stays nearby. That's the sign; say hi.
 Interest shows in small signals: a second look, a quick eyebrow raise, staying close. Treat them as an invitation.
+
+## boothby-1
+from: Boothby et al. 2018, The Liking Gap (paraphrased)
+when: I'm replaying a chat or date, sure she wasn't into it
+eg: Walking home after a party conversation, cataloguing the awkward pauses.
+After a conversation, assume they liked me more than it feels like. My read is biased low.
 
 ## jiang-1
 from: Jia Jiang, Rejection Proof (paraphrased)
@@ -459,11 +541,11 @@ when: I'm wondering why I don't meet anyone
 eg: Same gym and same coffee shop, but never talking to the regulars. Join something weekly where the same people come back.
 Liking grows from proximity, frequency and time together. Put yourself where you'll see the same people again and again.
 
-## schafer-3
-from: Jack Schafer, The Like Switch (paraphrased)
-when: I'm trying hard to impress someone
-eg: Ten minutes on my job and my model. Ask about her instead, and reflect back what she says.
-If you want people to like you, make them feel good about themselves. Ask about them and show you understood.
+## huang-1
+from: Huang et al. 2017, It Doesn't Hurt to Ask (paraphrased)
+when: I'm searching for what to say next
+eg: She mentions a trip to Lisbon. "What made you pick Lisbon?" instead of my own travel story.
+Ask a follow-up about what they just said instead of thinking up my next line. People who do get more second dates.
 
 ## kishimi-4
 from: Kishimi & Koga, The Courage to Be Disliked (paraphrased)
@@ -504,6 +586,13 @@ moment: unlock
 when: I keep falling into the same distraction
 eg: Phone keeps pulling me off work. Put it in another room.
 Make the bad habit hard: put friction between you and the cue.
+
+## allcott-1
+from: Allcott, Gentzkow & Song 2022; Bowen & Marlatt 2009 (paraphrased)
+moment: unlock
+when: I'm at the unlock prompt with the urge pulling
+eg: 10pm, thumb on the Reddit unlock: let the pull sit for three breaths, then close it.
+The block is the calm me's decision; don't add an easy override. Watch the urge for a few breaths without needing it to drop.
 
 ## newport-1
 from: Cal Newport, Digital Minimalism (paraphrased)
@@ -556,6 +645,19 @@ from: Cal Newport, So Good They Can't Ignore You (paraphrased)
 when: I'm hunting for the job that matches my passion
 eg: Searching for a perfect-fit role instead of the one that builds the rarest skills.
 Passion follows mastery. Build rare and valuable skills, then trade them for what you want.
+
+## referral-1
+from: Rajkumar et al. 2022, Science (paraphrased)
+moment: prioritize
+when: I'm about to hit apply on a posting
+eg: A senior data science role at a bank: message the ex-colleague two teams over before applying.
+Before applying cold, find the acquaintance one step from the hiring manager and ask for a referral.
+
+## liu-1
+from: Liu, Huang & Wang 2014, Psychological Bulletin (paraphrased)
+when: I'm sending applications but haven't rehearsed once
+eg: Before Thursday's screen, record myself telling the pricing-model story in two minutes.
+Practise the pitch, not just the volume: rehearse impact stories and mock interviews every week.
 
 ## newport-6
 from: Cal Newport, So Good They Can't Ignore You (paraphrased)
@@ -671,6 +773,13 @@ when: I'm replaying a slip
 eg: Ate off-plan last night. Back on today, no punishment.
 To get back up when you fail, to celebrate behaving like a human.
 
+## wohl-1
+from: Wohl, Pychyl & Bennett 2010 (paraphrased)
+moment: nudge
+when: it's evening, the task didn't happen, and I'm attacking myself
+eg: Spent Saturday on YouTube instead of the cover letter: "That happened. Tomorrow at 9 I open the doc."
+After a wasted day, forgive the delay out loud. Self-blame feeds the next delay.
+
 ## kishimi-2
 from: Kishimi & Koga, The Courage to Be Disliked (paraphrased)
 when: I'm blaming my past for how I am
@@ -687,6 +796,12 @@ from: Addis & Martell, Overcoming Depression One Step at a Time (paraphrased)
 when: I'm pulling back from things on a low day
 eg: About to cancel plans and stay in. One small thing that used to feel good or useful, instead.
 Avoidance feels like rest on a low day but deepens the low. Do one small thing that gives pleasure or a sense of mastery.
+
+## confide-1
+from: Choi et al. 2020, American Journal of Psychiatry (paraphrased)
+when: I'm low and planning to disappear for the weekend
+eg: Text a close friend "rough week, up for a walk Sunday?" instead of "all good."
+On a low day, tell one person how I actually am.
 
 ## 6.30
 moment: unlock
