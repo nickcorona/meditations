@@ -36,6 +36,18 @@ when: I'm telling myself I have to finish something big
 eg: "I have to finish the model write-up tonight" becomes "When can I start on the first section?"
 Swap "I have to finish" for "When can I start?" Starting is the part you control.
 
+## pychyl-1
+from: Tim Pychyl, Solving the Procrastination Puzzle (paraphrased)
+when: I'm telling myself I'll feel more like it later
+eg: "I'll do the application tonight when I'm fresher."
+I won't feel more like it tomorrow. Waiting to be in the mood is the procrastination.
+
+## pychyl-2
+from: Tim Pychyl, Solving the Procrastination Puzzle (paraphrased)
+when: I hear myself say "I'll just check one thing first"
+eg: "Quick look at email, then the cover letter." Open the cover letter.
+Notice the excuse as an excuse. It's the signal to start now.
+
 ## 5.1
 moment: wake
 when: I'm lying in bed not wanting to start the day
@@ -55,6 +67,30 @@ moment: wake
 when: I'm lying in a dark room on a low morning
 eg: Coffee on the balcony or a ten-minute walk before opening the laptop.
 On a low morning, get outside light first thing.
+
+## jacobs-1
+from: Gregg Jacobs, Say Good Night to Insomnia (paraphrased)
+when: I've been lying awake for what feels like twenty minutes
+eg: 1am, mind racing. Get up, read in dim light, come back when sleepy.
+If I can't sleep, get out of bed and come back when I'm sleepy. Bed is for sleeping, not for trying.
+
+## jacobs-2
+from: Gregg Jacobs, Say Good Night to Insomnia (paraphrased)
+when: I slept badly and want to nap or sleep in
+eg: Four hours last night: no nap after 3pm, normal bedtime tonight.
+After a bad night, don't make up for it. Same wake time, no late naps; the built-up sleepiness fixes tomorrow night.
+
+## jacobs-3
+from: Gregg Jacobs, Say Good Night to Insomnia (paraphrased)
+when: I'm worried I won't function after a bad night
+eg: "I'll bomb the meeting on five hours." I usually do fine.
+One bad night costs less than it feels like. Worrying about sleep is what keeps insomnia going.
+
+## jacobs-4
+from: Gregg Jacobs, Say Good Night to Insomnia (paraphrased)
+when: it's the last hour before bed
+eg: Laptop open in bed at 11. Close it, dim the lights.
+Give the last hour before bed to winding down: dim light, no work, no stressful screens.
 
 ## harris-3
 from: Russ Harris, The Happiness Trap (paraphrased)
@@ -245,6 +281,18 @@ from: David Burns, Feeling Good (paraphrased)
 when: I'm talking to myself harshly
 eg: "I'm such an idiot" after a mistake in a meeting. I'd never say that to a friend.
 Talk to yourself the way you'd talk to a friend in the same situation.
+
+## neff-1
+from: Kristin Neff, Self-Compassion (paraphrased)
+when: I've messed up and I'm attacking myself
+eg: Missed a deadline. "This is hard, everyone misses things, what would help now?"
+Three steps: notice that it hurts, remember everyone goes through this, then be kind to myself.
+
+## neff-2
+from: Kristin Neff, Self-Compassion (paraphrased)
+when: I think being hard on myself is what keeps me going
+eg: "If I go easy on myself I'll slack off."
+Self-criticism doesn't drive improvement. Self-compassion makes it easier to admit the mistake and try again.
 
 ## 2.1
 when: someone's being rude, careless or dishonest with me
@@ -574,6 +622,24 @@ when: I'm getting defensive about being wrong
 eg: Someone finds a bug in my code. Thank them; the fix makes my work better.
 It’s the truth I’m after, and the truth never harmed anyone.
 
+## galef-1
+from: Julia Galef, The Scout Mindset (paraphrased)
+when: I notice I want something to be true
+eg: Hoping a model result holds before I've checked it.
+Ask whether I'm trying to see what's true or to defend my side.
+
+## galef-2
+from: Julia Galef, The Scout Mindset (paraphrased)
+when: I'm arguing a point at work
+eg: Defending my feature choice in a review. What result would make me drop it?
+Before arguing, ask what evidence would change my mind.
+
+## galef-3
+from: Julia Galef, The Scout Mindset (paraphrased)
+when: an opinion feels like part of who I am
+eg: Being the person who's always pro-Bayesian. It's a tool, not an identity.
+Hold my identity lightly, so changing my mind doesn't feel like losing.
+
 ## 7.7
 moment: stuck
 when: I'm stuck and don't want to ask
@@ -639,6 +705,24 @@ from: Andy Grove, High Output Management (paraphrased)
 when: someone on the team isn't performing
 eg: An analyst's work keeps slipping. Is it can't (skill) or won't (motivation)?
 When someone isn't performing, it's either can't or won't. Find out which before you act.
+
+## fournier-1
+from: Camille Fournier, The Manager's Path (paraphrased)
+when: someone on my team is stuck and I want to just do it myself
+eg: An analyst struggling with a query. Ask questions until they find it.
+Coach, don't take over. My job is their growth, not the fastest fix.
+
+## fournier-2
+from: Camille Fournier, The Manager's Path (paraphrased)
+when: something is going wrong that my manager doesn't know about
+eg: A project slipping by two weeks. Tell my manager today, with my plan.
+No surprises upward. Share bad news early, along with what I'm doing about it.
+
+## fournier-3
+from: Camille Fournier, The Manager's Path (paraphrased)
+when: I'm avoiding a hard conversation with a report
+eg: Sloppy work for the third week. Give specific feedback this week, not at review time.
+Give feedback early and specifically. Delayed feedback turns into a performance problem.
 
 ## newport-5
 from: Cal Newport, So Good They Can't Ignore You (paraphrased)
@@ -706,6 +790,24 @@ Imagine your future self looking back: which choice will you wish you'd made?
 when: I'm half-doing something while my mind's elsewhere
 eg: Checking Slack during a 1:1. Phone face down, full attention.
 Do everything as if it were the last thing you were doing in your life.
+
+## deepwork-1
+from: Cal Newport, Deep Work (paraphrased)
+when: I'm starting the day in email and Slack
+eg: Block 9 to 11 for the hardest work, Slack closed.
+Schedule deep-work blocks first and protect them; shallow work fills the gaps.
+
+## deepwork-2
+from: Cal Newport, Deep Work (paraphrased)
+when: I keep switching tabs in the middle of a task
+eg: Checking Slack every ten minutes while modelling. Batch it at the top of the hour.
+Every switch leaves attention behind. Batch the shallow stuff and stay on one thing.
+
+## deepwork-3
+from: Cal Newport, Deep Work (paraphrased)
+when: I'm still working late into the evening
+eg: Poking at a notebook at 10pm. Write the next step down and close it.
+Have a shutdown ritual: write down where I am and the next step, then stop for the day.
 
 ## 7.69
 when: I'm rushing, slacking or putting on a front
@@ -802,6 +904,18 @@ from: Choi et al. 2020, American Journal of Psychiatry (paraphrased)
 when: I'm low and planning to disappear for the weekend
 eg: Text a close friend "rough week, up for a walk Sunday?" instead of "all good."
 On a low day, tell one person how I actually am.
+
+## franco-1
+from: Marisa Franco, Platonic (paraphrased)
+when: I'm unsure whether someone wants to hear from me
+eg: Haven't texted an old friend in months. Assume they'd be glad.
+Assume people like you. Acting as if you're accepted makes it more likely you will be.
+
+## franco-2
+from: Marisa Franco, Platonic (paraphrased)
+when: I'm waiting for others to reach out
+eg: Feeling left out of weekend plans. Make the plan and invite them.
+Friendship doesn't happen by itself in adulthood. Initiate, and keep initiating.
 
 ## 6.30
 moment: unlock
